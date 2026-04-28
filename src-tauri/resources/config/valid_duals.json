@@ -1,0 +1,707 @@
+{
+  "version": "2026-04-28-rocom",
+  "schema_version": 1,
+  "_note": "Auto-derived from data_init_project/rocom.aoe.top Pets.json. Each entry corresponds to a dual-type combo observed among implemented pets.",
+  "valid_duals": [
+    {
+      "id": "d_光_地面",
+      "types": [
+        "光",
+        "地面"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 9 只精灵"
+    },
+    {
+      "id": "d_光_幽",
+      "types": [
+        "光",
+        "幽"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_光_恶",
+      "types": [
+        "光",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_光_电",
+      "types": [
+        "光",
+        "电"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_光_草",
+      "types": [
+        "草",
+        "光"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_光_虫",
+      "types": [
+        "光",
+        "虫"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_冰_地面",
+      "types": [
+        "地面",
+        "冰"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_冰_幻",
+      "types": [
+        "冰",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_冰_恶",
+      "types": [
+        "冰",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_冰_水",
+      "types": [
+        "水",
+        "冰"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_冰_火",
+      "types": [
+        "火",
+        "冰"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_冰_电",
+      "types": [
+        "冰",
+        "电"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_冰_草",
+      "types": [
+        "草",
+        "冰"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 4 只精灵"
+    },
+    {
+      "id": "d_冰_萌",
+      "types": [
+        "冰",
+        "萌"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_地面_幻",
+      "types": [
+        "地面",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_地面_幽",
+      "types": [
+        "地面",
+        "幽"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_地面_恶",
+      "types": [
+        "地面",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_地面_机械",
+      "types": [
+        "地面",
+        "机械"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_地面_武",
+      "types": [
+        "地面",
+        "武"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 10 只精灵"
+    },
+    {
+      "id": "d_地面_毒",
+      "types": [
+        "地面",
+        "毒"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_地面_水",
+      "types": [
+        "水",
+        "地面"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 6 只精灵"
+    },
+    {
+      "id": "d_地面_翼",
+      "types": [
+        "地面",
+        "翼"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_地面_草",
+      "types": [
+        "草",
+        "地面"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 8 只精灵"
+    },
+    {
+      "id": "d_地面_虫",
+      "types": [
+        "地面",
+        "虫"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_幻_幽",
+      "types": [
+        "幽",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_幻_普通",
+      "types": [
+        "普通",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_幻_机械",
+      "types": [
+        "机械",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 4 只精灵"
+    },
+    {
+      "id": "d_幻_电",
+      "types": [
+        "电",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_幻_翼",
+      "types": [
+        "翼",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_幻_草",
+      "types": [
+        "草",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_幻_萌",
+      "types": [
+        "萌",
+        "幻"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_幽_恶",
+      "types": [
+        "幽",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_幽_毒",
+      "types": [
+        "毒",
+        "幽"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_幽_水",
+      "types": [
+        "水",
+        "幽"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 4 只精灵"
+    },
+    {
+      "id": "d_幽_草",
+      "types": [
+        "草",
+        "幽"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_幽_萌",
+      "types": [
+        "萌",
+        "幽"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_幽_龙",
+      "types": [
+        "龙",
+        "幽"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_恶_毒",
+      "types": [
+        "毒",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_恶_火",
+      "types": [
+        "火",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_恶_翼",
+      "types": [
+        "翼",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_恶_虫",
+      "types": [
+        "虫",
+        "恶"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 4 只精灵"
+    },
+    {
+      "id": "d_普通_武",
+      "types": [
+        "普通",
+        "武"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 4 只精灵"
+    },
+    {
+      "id": "d_普通_水",
+      "types": [
+        "普通",
+        "水"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_普通_翼",
+      "types": [
+        "普通",
+        "翼"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_普通_虫",
+      "types": [
+        "普通",
+        "虫"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 6 只精灵"
+    },
+    {
+      "id": "d_机械_火",
+      "types": [
+        "火",
+        "机械"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_机械_翼",
+      "types": [
+        "翼",
+        "机械"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_武_水",
+      "types": [
+        "水",
+        "武"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 5 只精灵"
+    },
+    {
+      "id": "d_武_火",
+      "types": [
+        "火",
+        "武"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 5 只精灵"
+    },
+    {
+      "id": "d_武_草",
+      "types": [
+        "草",
+        "武"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 4 只精灵"
+    },
+    {
+      "id": "d_毒_水",
+      "types": [
+        "水",
+        "毒"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 8 只精灵"
+    },
+    {
+      "id": "d_毒_草",
+      "types": [
+        "草",
+        "毒"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 12 只精灵"
+    },
+    {
+      "id": "d_毒_萌",
+      "types": [
+        "毒",
+        "萌"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 8 只精灵"
+    },
+    {
+      "id": "d_毒_虫",
+      "types": [
+        "毒",
+        "虫"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_水_火",
+      "types": [
+        "火",
+        "水"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_水_电",
+      "types": [
+        "水",
+        "电"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 4 只精灵"
+    },
+    {
+      "id": "d_水_翼",
+      "types": [
+        "水",
+        "翼"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 7 只精灵"
+    },
+    {
+      "id": "d_水_草",
+      "types": [
+        "草",
+        "水"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_水_萌",
+      "types": [
+        "水",
+        "萌"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_水_龙",
+      "types": [
+        "水",
+        "龙"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_火_翼",
+      "types": [
+        "火",
+        "翼"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_火_草",
+      "types": [
+        "草",
+        "火"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_火_萌",
+      "types": [
+        "火",
+        "萌"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_电_翼",
+      "types": [
+        "电",
+        "翼"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 1 只精灵"
+    },
+    {
+      "id": "d_翼_萌",
+      "types": [
+        "翼",
+        "萌"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_翼_虫",
+      "types": [
+        "虫",
+        "翼"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_翼_龙",
+      "types": [
+        "龙",
+        "翼"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 2 只精灵"
+    },
+    {
+      "id": "d_草_萌",
+      "types": [
+        "草",
+        "萌"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 5 只精灵"
+    },
+    {
+      "id": "d_草_虫",
+      "types": [
+        "草",
+        "虫"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 3 只精灵"
+    },
+    {
+      "id": "d_萌_虫",
+      "types": [
+        "虫",
+        "萌"
+      ],
+      "introduced_at": null,
+      "deprecated_at": null,
+      "notes": "含 6 只精灵"
+    }
+  ]
+}

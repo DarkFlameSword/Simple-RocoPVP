@@ -1,0 +1,8 @@
+{
+  "configVersion": "2026-04-28",
+  "schemaVersion": 1,
+  "buildAt": "2026-04-28T00:00:00Z",
+  "compatibleAppVersions": ">=0.1.0",
+  "checksum": null,
+  "_note": "Initial config bundled with the app."
+}

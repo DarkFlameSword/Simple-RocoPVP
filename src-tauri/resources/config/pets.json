@@ -1,0 +1,9519 @@
+{
+ "version": "2026-04-28-rocom",
+ "pets": [
+  {
+   "id": 3001,
+   "name": "喵喵",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 65,
+    "phy_atk": 66,
+    "mag_atk": 66,
+    "phy_def": 49,
+    "mag_def": 91,
+    "spd": 33
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3002,
+   "name": "水蓝蓝",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 35,
+    "mag_atk": 76,
+    "phy_def": 56,
+    "mag_def": 79,
+    "spd": 51
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3003,
+   "name": "火花",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 70,
+    "phy_atk": 84,
+    "mag_atk": 37,
+    "phy_def": 56,
+    "mag_def": 43,
+    "spd": 78
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3004,
+   "name": "迪莫",
+   "types": [
+    "光"
+   ],
+   "base_stats": {
+    "hp": 120,
+    "phy_atk": 80,
+    "mag_atk": 80,
+    "phy_def": 105,
+    "mag_def": 105,
+    "spd": 92
+   },
+   "move_types": [
+    "光"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3005,
+   "name": "水灵",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 125,
+    "phy_atk": 58,
+    "mag_atk": 127,
+    "phy_def": 94,
+    "mag_def": 132,
+    "spd": 85
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3006,
+   "name": "火神",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 117,
+    "phy_atk": 139,
+    "mag_atk": 61,
+    "phy_def": 94,
+    "mag_def": 72,
+    "spd": 130
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3007,
+   "name": "魔力猫",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 109,
+    "mag_atk": 109,
+    "phy_def": 81,
+    "mag_def": 151,
+    "spd": 55
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3008,
+   "name": "草头鸭",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 79,
+    "mag_atk": 24,
+    "phy_def": 66,
+    "mag_def": 50,
+    "spd": 92
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3010,
+   "name": "恶魔叮",
+   "types": [
+    "翼",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 112,
+    "mag_atk": 44,
+    "phy_def": 58,
+    "mag_def": 43,
+    "spd": 84
+   },
+   "move_types": [
+    "恶",
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3011,
+   "name": "恶魔狼",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 115,
+    "phy_atk": 114,
+    "mag_atk": 45,
+    "phy_def": 91,
+    "mag_def": 63,
+    "spd": 120
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3012,
+   "name": "鸭吉吉",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 136,
+    "phy_atk": 95,
+    "mag_atk": 35,
+    "phy_def": 55,
+    "mag_def": 45,
+    "spd": 105
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3013,
+   "name": "铠甲虫",
+   "types": [
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 122,
+    "phy_atk": 88,
+    "mag_atk": 39,
+    "phy_def": 121,
+    "mag_def": 77,
+    "spd": 75
+   },
+   "move_types": [
+    "虫"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3014,
+   "name": "阿米亚特",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 64,
+    "phy_atk": 95,
+    "mag_atk": 47,
+    "phy_def": 67,
+    "mag_def": 42,
+    "spd": 45
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3015,
+   "name": "阿米樱",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 127,
+    "mag_atk": 62,
+    "phy_def": 89,
+    "mag_def": 56,
+    "spd": 60
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3016,
+   "name": "罗隐",
+   "types": [
+    "地面",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 107,
+    "phy_atk": 159,
+    "mag_atk": 78,
+    "phy_def": 112,
+    "mag_def": 70,
+    "spd": 75
+   },
+   "move_types": [
+    "地面",
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3017,
+   "name": "蹦蹦种子",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 60,
+    "phy_atk": 64,
+    "mag_atk": 66,
+    "phy_def": 44,
+    "mag_def": 63,
+    "spd": 51
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3018,
+   "name": "蹦蹦草",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 85,
+    "mag_atk": 88,
+    "phy_def": 59,
+    "mag_def": 84,
+    "spd": 68
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3019,
+   "name": "蹦蹦花",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 107,
+    "mag_atk": 110,
+    "phy_def": 73,
+    "mag_def": 105,
+    "spd": 85
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3020,
+   "name": "地鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 66,
+    "phy_atk": 71,
+    "mag_atk": 31,
+    "phy_def": 61,
+    "mag_def": 42,
+    "spd": 66
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3021,
+   "name": "遁鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 88,
+    "phy_atk": 95,
+    "mag_atk": 41,
+    "phy_def": 82,
+    "mag_def": 56,
+    "spd": 88
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3022,
+   "name": "遁地鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 110,
+    "phy_atk": 119,
+    "mag_atk": 51,
+    "phy_def": 102,
+    "mag_def": 70,
+    "spd": 110
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3025,
+   "name": "喵呜",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 87,
+    "mag_atk": 87,
+    "phy_def": 65,
+    "mag_def": 121,
+    "spd": 44
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3026,
+   "name": "绿草精灵",
+   "types": [
+    "草",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 35,
+    "mag_atk": 89,
+    "phy_def": 87,
+    "mag_def": 111,
+    "spd": 72
+   },
+   "move_types": [
+    "幻",
+    "草"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3027,
+   "name": "蒲公英娃娃",
+   "types": [
+    "草",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 111,
+    "phy_atk": 123,
+    "mag_atk": 117,
+    "phy_def": 129,
+    "mag_def": 97,
+    "spd": 65
+   },
+   "move_types": [
+    "草",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3028,
+   "name": "冬羽雀",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 103,
+    "mag_atk": 44,
+    "phy_def": 86,
+    "mag_def": 59,
+    "spd": 92
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3029,
+   "name": "奇丽草",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 69,
+    "mag_atk": 69,
+    "phy_def": 73,
+    "mag_def": 57,
+    "spd": 48
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3030,
+   "name": "奇丽叶",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 92,
+    "mag_atk": 92,
+    "phy_def": 97,
+    "mag_def": 76,
+    "spd": 64
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3031,
+   "name": "奇丽花",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 112,
+    "phy_atk": 115,
+    "mag_atk": 115,
+    "phy_def": 121,
+    "mag_def": 95,
+    "spd": 80
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3032,
+   "name": "焰火",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 111,
+    "mag_atk": 49,
+    "phy_def": 75,
+    "mag_def": 58,
+    "spd": 104
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3033,
+   "name": "波波拉",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 46,
+    "mag_atk": 102,
+    "phy_def": 75,
+    "mag_def": 106,
+    "spd": 68
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3034,
+   "name": "蒲公英",
+   "types": [
+    "草",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 99,
+    "mag_atk": 94,
+    "phy_def": 103,
+    "mag_def": 78,
+    "spd": 52
+   },
+   "move_types": [
+    "草",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3035,
+   "name": "魔草巫灵",
+   "types": [
+    "草",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 43,
+    "mag_atk": 112,
+    "phy_def": 109,
+    "mag_def": 139,
+    "spd": 90
+   },
+   "move_types": [
+    "幻",
+    "草"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3036,
+   "name": "鸭吉吉",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 136,
+    "phy_atk": 35,
+    "mag_atk": 95,
+    "phy_def": 45,
+    "mag_def": 55,
+    "spd": 105
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3037,
+   "name": "岚鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 128,
+    "mag_atk": 55,
+    "phy_def": 108,
+    "mag_def": 74,
+    "spd": 115
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3038,
+   "name": "小甲虫",
+   "types": [
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 98,
+    "phy_atk": 71,
+    "mag_atk": 31,
+    "phy_def": 97,
+    "mag_def": 61,
+    "spd": 60
+   },
+   "move_types": [
+    "虫"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3039,
+   "name": "叮叮恶魔",
+   "types": [
+    "翼",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 140,
+    "mag_atk": 55,
+    "phy_def": 73,
+    "mag_def": 54,
+    "spd": 105
+   },
+   "move_types": [
+    "恶",
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3040,
+   "name": "丢丢",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 44,
+    "phy_atk": 45,
+    "mag_atk": 12,
+    "phy_def": 49,
+    "mag_def": 40,
+    "spd": 78
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3041,
+   "name": "卡卡虫",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 59,
+    "phy_atk": 60,
+    "mag_atk": 16,
+    "phy_def": 65,
+    "mag_def": 53,
+    "spd": 104
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3042,
+   "name": "卡瓦重",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 74,
+    "phy_atk": 75,
+    "mag_atk": 20,
+    "phy_def": 81,
+    "mag_def": 67,
+    "spd": 130
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3043,
+   "name": "伊贝儿",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 73,
+    "mag_atk": 71,
+    "phy_def": 76,
+    "mag_def": 76,
+    "spd": 72
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3044,
+   "name": "伊贝粉粉",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 91,
+    "mag_atk": 89,
+    "phy_def": 95,
+    "mag_def": 95,
+    "spd": 90
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3045,
+   "name": "锥尾羊",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 66,
+    "mag_atk": 29,
+    "phy_def": 72,
+    "mag_def": 49,
+    "spd": 66
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3046,
+   "name": "铃兰羊",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 89,
+    "mag_atk": 39,
+    "phy_def": 96,
+    "mag_def": 65,
+    "spd": 88
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3047,
+   "name": "花影羚羊",
+   "types": [
+    "幽",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 112,
+    "phy_atk": 111,
+    "mag_atk": 48,
+    "phy_def": 120,
+    "mag_def": 81,
+    "spd": 110
+   },
+   "move_types": [
+    "幽",
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3048,
+   "name": "圣光迪莫",
+   "types": [
+    "光"
+   ],
+   "base_stats": {
+    "hp": 120,
+    "phy_atk": 80,
+    "mag_atk": 80,
+    "phy_def": 105,
+    "mag_def": 105,
+    "spd": 92
+   },
+   "move_types": [
+    "光"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3049,
+   "name": "白发懒人",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 94,
+    "mag_atk": 38,
+    "phy_def": 81,
+    "mag_def": 66,
+    "spd": 45
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3050,
+   "name": "记忆石",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 112,
+    "phy_atk": 108,
+    "mag_atk": 97,
+    "phy_def": 141,
+    "mag_def": 79,
+    "spd": 70
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3051,
+   "name": "圣草迪莫",
+   "types": [
+    "草",
+    "光"
+   ],
+   "base_stats": {
+    "hp": 120,
+    "phy_atk": 80,
+    "mag_atk": 80,
+    "phy_def": 105,
+    "mag_def": 105,
+    "spd": 92
+   },
+   "move_types": [
+    "光",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3055,
+   "name": "板板壳",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 28,
+    "mag_atk": 72,
+    "phy_def": 64,
+    "mag_def": 81,
+    "spd": 45
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3056,
+   "name": "咔咔壳",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 37,
+    "mag_atk": 96,
+    "phy_def": 85,
+    "mag_def": 107,
+    "spd": 60
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3057,
+   "name": "水泡壳",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 112,
+    "phy_atk": 46,
+    "mag_atk": 120,
+    "phy_def": 107,
+    "mag_def": 134,
+    "spd": 75
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3058,
+   "name": "一窝蜂",
+   "types": [
+    "虫",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 87,
+    "phy_atk": 32,
+    "mag_atk": 29,
+    "phy_def": 27,
+    "mag_def": 27,
+    "spd": 26
+   },
+   "move_types": [
+    "翼",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3059,
+   "name": "黄蜂后",
+   "types": [
+    "虫",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 116,
+    "phy_atk": 43,
+    "mag_atk": 39,
+    "phy_def": 36,
+    "mag_def": 36,
+    "spd": 35
+   },
+   "move_types": [
+    "翼",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3060,
+   "name": "小灵面",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 55,
+    "phy_atk": 30,
+    "mag_atk": 72,
+    "phy_def": 59,
+    "mag_def": 81,
+    "spd": 69
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3061,
+   "name": "暗影灵面",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 74,
+    "phy_atk": 40,
+    "mag_atk": 96,
+    "phy_def": 78,
+    "mag_def": 108,
+    "spd": 92
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3062,
+   "name": "小独角兽",
+   "types": [
+    "光"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 48,
+    "mag_atk": 129,
+    "phy_def": 62,
+    "mag_def": 74,
+    "spd": 84
+   },
+   "move_types": [
+    "光"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3063,
+   "name": "白金独角兽",
+   "types": [
+    "光"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 61,
+    "mag_atk": 161,
+    "phy_def": 77,
+    "mag_def": 92,
+    "spd": 105
+   },
+   "move_types": [
+    "光"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3064,
+   "name": "幽影树",
+   "types": [
+    "草",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 111,
+    "phy_atk": 96,
+    "mag_atk": 96,
+    "phy_def": 65,
+    "mag_def": 123,
+    "spd": 80
+   },
+   "move_types": [
+    "幽",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3065,
+   "name": "忽幽狸",
+   "types": [
+    "毒",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 87,
+    "mag_atk": 84,
+    "phy_def": 84,
+    "mag_def": 56,
+    "spd": 104
+   },
+   "move_types": [
+    "幽",
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3066,
+   "name": "影狸",
+   "types": [
+    "毒",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 109,
+    "mag_atk": 105,
+    "phy_def": 105,
+    "mag_def": 70,
+    "spd": 130
+   },
+   "move_types": [
+    "幽",
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3067,
+   "name": "卷毛鸭",
+   "types": [
+    "草",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 116,
+    "phy_atk": 98,
+    "mag_atk": 29,
+    "phy_def": 83,
+    "mag_def": 63,
+    "spd": 115
+   },
+   "move_types": [
+    "武",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3069,
+   "name": "锤头鹳",
+   "types": [
+    "水",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 111,
+    "phy_atk": 67,
+    "mag_atk": 65,
+    "phy_def": 91,
+    "mag_def": 72,
+    "spd": 105
+   },
+   "move_types": [
+    "水",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3070,
+   "name": "护主犬",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 68,
+    "phy_atk": 103,
+    "mag_atk": 37,
+    "phy_def": 81,
+    "mag_def": 66,
+    "spd": 96
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3071,
+   "name": "音速犬",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 128,
+    "mag_atk": 46,
+    "phy_def": 101,
+    "mag_def": 82,
+    "spd": 120
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3072,
+   "name": "格兰种子",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 65,
+    "phy_atk": 31,
+    "mag_atk": 74,
+    "phy_def": 48,
+    "mag_def": 67,
+    "spd": 36
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3073,
+   "name": "格兰花",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 42,
+    "mag_atk": 99,
+    "phy_def": 64,
+    "mag_def": 90,
+    "spd": 48
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3074,
+   "name": "格兰球",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 52,
+    "mag_atk": 124,
+    "phy_def": 80,
+    "mag_def": 112,
+    "spd": 60
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3075,
+   "name": "灵狐",
+   "types": [
+    "火",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 69,
+    "phy_atk": 52,
+    "mag_atk": 52,
+    "phy_def": 50,
+    "mag_def": 64,
+    "spd": 60
+   },
+   "move_types": [
+    "冰",
+    "火"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3076,
+   "name": "九尾狐",
+   "types": [
+    "火",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 70,
+    "mag_atk": 70,
+    "phy_def": 67,
+    "mag_def": 86,
+    "spd": 80
+   },
+   "move_types": [
+    "冰",
+    "火"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3077,
+   "name": "尖嘴狐仙",
+   "types": [
+    "火",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 115,
+    "phy_atk": 87,
+    "mag_atk": 87,
+    "phy_def": 84,
+    "mag_def": 107,
+    "spd": 100
+   },
+   "move_types": [
+    "冰",
+    "火"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3078,
+   "name": "烈钻鸟",
+   "types": [
+    "火",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 55,
+    "phy_atk": 70,
+    "mag_atk": 64,
+    "phy_def": 56,
+    "mag_def": 56,
+    "spd": 72
+   },
+   "move_types": [
+    "火",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3079,
+   "name": "长尾火鸟",
+   "types": [
+    "火",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 74,
+    "phy_atk": 93,
+    "mag_atk": 85,
+    "phy_def": 74,
+    "mag_def": 74,
+    "spd": 96
+   },
+   "move_types": [
+    "火",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3080,
+   "name": "火羽",
+   "types": [
+    "火",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 116,
+    "mag_atk": 106,
+    "phy_def": 93,
+    "mag_def": 93,
+    "spd": 120
+   },
+   "move_types": [
+    "火",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3081,
+   "name": "治愈兔",
+   "types": [
+    "火",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 28,
+    "mag_atk": 73,
+    "phy_def": 60,
+    "mag_def": 76,
+    "spd": 54
+   },
+   "move_types": [
+    "火",
+    "萌"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3082,
+   "name": "红丝绒",
+   "types": [
+    "火",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 38,
+    "mag_atk": 98,
+    "phy_def": 80,
+    "mag_def": 101,
+    "spd": 72
+   },
+   "move_types": [
+    "火",
+    "萌"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3083,
+   "name": "可爱猿",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 97,
+    "mag_atk": 43,
+    "phy_def": 86,
+    "mag_def": 67,
+    "spd": 36
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3084,
+   "name": "炽热猿",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 133,
+    "phy_atk": 130,
+    "mag_atk": 57,
+    "phy_def": 115,
+    "mag_def": 89,
+    "spd": 48
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3085,
+   "name": "火焰猿",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 167,
+    "phy_atk": 162,
+    "mag_atk": 72,
+    "phy_def": 143,
+    "mag_def": 111,
+    "spd": 60
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3086,
+   "name": "可立鸡",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 65,
+    "phy_atk": 79,
+    "mag_atk": 79,
+    "phy_def": 55,
+    "mag_def": 52,
+    "spd": 66
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3087,
+   "name": "晕晕鸡",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 106,
+    "mag_atk": 106,
+    "phy_def": 74,
+    "mag_def": 70,
+    "spd": 88
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3088,
+   "name": "绅士鸡",
+   "types": [
+    "火",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 132,
+    "mag_atk": 132,
+    "phy_def": 92,
+    "mag_def": 87,
+    "spd": 110
+   },
+   "move_types": [
+    "武",
+    "火"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3089,
+   "name": "武者鸡",
+   "types": [
+    "火",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 121,
+    "phy_atk": 144,
+    "mag_atk": 58,
+    "phy_def": 92,
+    "mag_def": 70,
+    "spd": 95
+   },
+   "move_types": [
+    "武",
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3090,
+   "name": "火尾瓦特",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 63,
+    "phy_atk": 70,
+    "mag_atk": 29,
+    "phy_def": 81,
+    "mag_def": 56,
+    "spd": 39
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3091,
+   "name": "火尾战士",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 84,
+    "phy_atk": 94,
+    "mag_atk": 39,
+    "phy_def": 108,
+    "mag_def": 74,
+    "spd": 52
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3092,
+   "name": "烈火守护",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 105,
+    "phy_atk": 117,
+    "mag_atk": 49,
+    "phy_def": 135,
+    "mag_def": 93,
+    "spd": 65
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3093,
+   "name": "呆小路",
+   "types": [
+    "草",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 52,
+    "phy_atk": 60,
+    "mag_atk": 64,
+    "phy_def": 68,
+    "mag_def": 79,
+    "spd": 57
+   },
+   "move_types": [
+    "草",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3094,
+   "name": "舞动路路",
+   "types": [
+    "草",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 69,
+    "phy_atk": 80,
+    "mag_atk": 86,
+    "phy_def": 91,
+    "mag_def": 105,
+    "spd": 76
+   },
+   "move_types": [
+    "草",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3095,
+   "name": "白发路路",
+   "types": [
+    "草",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 100,
+    "mag_atk": 107,
+    "phy_def": 113,
+    "mag_def": 132,
+    "spd": 95
+   },
+   "move_types": [
+    "草",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3098,
+   "name": "绿耳松鼠",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 69,
+    "phy_atk": 50,
+    "mag_atk": 47,
+    "phy_def": 67,
+    "mag_def": 52,
+    "spd": 48
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3099,
+   "name": "抱枕松鼠",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 67,
+    "mag_atk": 63,
+    "phy_def": 89,
+    "mag_def": 70,
+    "spd": 64
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3100,
+   "name": "蹦床松鼠",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 114,
+    "phy_atk": 84,
+    "mag_atk": 79,
+    "phy_def": 111,
+    "mag_def": 87,
+    "spd": 80
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3101,
+   "name": "动力猿",
+   "types": [
+    "普通",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 115,
+    "phy_atk": 125,
+    "mag_atk": 51,
+    "phy_def": 108,
+    "mag_def": 88,
+    "spd": 60
+   },
+   "move_types": [
+    "普通",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3102,
+   "name": "瞌睡王",
+   "types": [
+    "普通",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 144,
+    "phy_atk": 157,
+    "mag_atk": 64,
+    "phy_def": 135,
+    "mag_def": 110,
+    "spd": 75
+   },
+   "move_types": [
+    "普通",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3103,
+   "name": "布是石",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 81,
+    "mag_atk": 29,
+    "phy_def": 95,
+    "mag_def": 90,
+    "spd": 42
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3104,
+   "name": "布是岩",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 96,
+    "phy_atk": 108,
+    "mag_atk": 39,
+    "phy_def": 127,
+    "mag_def": 120,
+    "spd": 56
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3105,
+   "name": "布克棱岩",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 120,
+    "phy_atk": 135,
+    "mag_atk": 49,
+    "phy_def": 159,
+    "mag_def": 150,
+    "spd": 70
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3106,
+   "name": "石肤蜥",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 69,
+    "phy_atk": 54,
+    "mag_atk": 53,
+    "phy_def": 65,
+    "mag_def": 45,
+    "spd": 57
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3107,
+   "name": "石刺蜥",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 72,
+    "mag_atk": 71,
+    "phy_def": 87,
+    "mag_def": 60,
+    "spd": 76
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3108,
+   "name": "石冠王蜥",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 115,
+    "phy_atk": 89,
+    "mag_atk": 89,
+    "phy_def": 109,
+    "mag_def": 75,
+    "spd": 95
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3109,
+   "name": "仪使者",
+   "types": [
+    "地面",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 64,
+    "phy_atk": 54,
+    "mag_atk": 57,
+    "phy_def": 69,
+    "mag_def": 71,
+    "spd": 51
+   },
+   "move_types": [
+    "地面",
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3110,
+   "name": "仪式之星",
+   "types": [
+    "地面",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 72,
+    "mag_atk": 76,
+    "phy_def": 92,
+    "mag_def": 95,
+    "spd": 68
+   },
+   "move_types": [
+    "地面",
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3111,
+   "name": "仪式巨像",
+   "types": [
+    "地面",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 90,
+    "mag_atk": 95,
+    "phy_def": 115,
+    "mag_def": 119,
+    "spd": 85
+   },
+   "move_types": [
+    "地面",
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3112,
+   "name": "甜田螺",
+   "types": [
+    "水",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 68,
+    "phy_atk": 61,
+    "mag_atk": 64,
+    "phy_def": 49,
+    "mag_def": 74,
+    "spd": 54
+   },
+   "move_types": [
+    "水",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3113,
+   "name": "壳乙螺",
+   "types": [
+    "水",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 91,
+    "phy_atk": 81,
+    "mag_atk": 86,
+    "phy_def": 66,
+    "mag_def": 99,
+    "spd": 72
+   },
+   "move_types": [
+    "水",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3114,
+   "name": "卡洛儿",
+   "types": [
+    "水",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 114,
+    "phy_atk": 102,
+    "mag_atk": 107,
+    "phy_def": 82,
+    "mag_def": 124,
+    "spd": 90
+   },
+   "move_types": [
+    "水",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3115,
+   "name": "风铃鲨",
+   "types": [
+    "水",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 54,
+    "phy_atk": 46,
+    "mag_atk": 46,
+    "phy_def": 63,
+    "mag_def": 63,
+    "spd": 75
+   },
+   "move_types": [
+    "水",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3116,
+   "name": "蓝蝶鲨",
+   "types": [
+    "水",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 61,
+    "mag_atk": 61,
+    "phy_def": 84,
+    "mag_def": 84,
+    "spd": 100
+   },
+   "move_types": [
+    "水",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3117,
+   "name": "彩蝶鲨",
+   "types": [
+    "水",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 77,
+    "mag_atk": 77,
+    "phy_def": 105,
+    "mag_def": 105,
+    "spd": 125
+   },
+   "move_types": [
+    "水",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3118,
+   "name": "果冻",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 81,
+    "phy_atk": 26,
+    "mag_atk": 81,
+    "phy_def": 75,
+    "mag_def": 78,
+    "spd": 96
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3119,
+   "name": "翡翠水母",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 30,
+    "mag_atk": 68,
+    "phy_def": 75,
+    "mag_def": 109,
+    "spd": 76
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3120,
+   "name": "琉璃水母",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 134,
+    "phy_atk": 37,
+    "mag_atk": 85,
+    "phy_def": 93,
+    "mag_def": 136,
+    "spd": 95
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3121,
+   "name": "大耳帽兜",
+   "types": [
+    "冰",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 62,
+    "mag_atk": 59,
+    "phy_def": 39,
+    "mag_def": 78,
+    "spd": 54
+   },
+   "move_types": [
+    "冰",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3122,
+   "name": "帽兜娃娃",
+   "types": [
+    "冰",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 104,
+    "phy_atk": 83,
+    "mag_atk": 78,
+    "phy_def": 52,
+    "mag_def": 104,
+    "spd": 72
+   },
+   "move_types": [
+    "冰",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3123,
+   "name": "雪影娃娃",
+   "types": [
+    "冰",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 130,
+    "phy_atk": 103,
+    "mag_atk": 98,
+    "phy_def": 66,
+    "mag_def": 130,
+    "spd": 90
+   },
+   "move_types": [
+    "冰",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3124,
+   "name": "脆筒甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 67,
+    "mag_atk": 72,
+    "phy_def": 42,
+    "mag_def": 55,
+    "spd": 60
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3125,
+   "name": "香草甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 96,
+    "phy_atk": 90,
+    "mag_atk": 95,
+    "phy_def": 56,
+    "mag_def": 74,
+    "spd": 80
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3126,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 119,
+    "phy_atk": 112,
+    "mag_atk": 119,
+    "phy_def": 70,
+    "mag_def": 92,
+    "spd": 100
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3127,
+   "name": "小狮鹫",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 61,
+    "phy_atk": 69,
+    "mag_atk": 39,
+    "phy_def": 64,
+    "mag_def": 33,
+    "spd": 72
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3128,
+   "name": "神圣狮鹫",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 82,
+    "phy_atk": 92,
+    "mag_atk": 51,
+    "phy_def": 86,
+    "mag_def": 44,
+    "spd": 96
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3129,
+   "name": "皇家狮鹫",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 102,
+    "phy_atk": 116,
+    "mag_atk": 64,
+    "phy_def": 107,
+    "mag_def": 55,
+    "spd": 120
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3130,
+   "name": "圆眼蜘蛛",
+   "types": [
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 55,
+    "phy_atk": 37,
+    "mag_atk": 37,
+    "phy_def": 55,
+    "mag_def": 55,
+    "spd": 66
+   },
+   "move_types": [
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3131,
+   "name": "尖角蜘蛛",
+   "types": [
+    "毒",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 74,
+    "phy_atk": 49,
+    "mag_atk": 49,
+    "phy_def": 73,
+    "mag_def": 73,
+    "spd": 88
+   },
+   "move_types": [
+    "毒",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3132,
+   "name": "芋香巨角蛛",
+   "types": [
+    "毒",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 61,
+    "mag_atk": 61,
+    "phy_def": 91,
+    "mag_def": 91,
+    "spd": 110
+   },
+   "move_types": [
+    "毒",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3136,
+   "name": "毛毛",
+   "types": [
+    "虫",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 32,
+    "phy_atk": 28,
+    "mag_atk": 28,
+    "phy_def": 40,
+    "mag_def": 40,
+    "spd": 60
+   },
+   "move_types": [
+    "萌",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3137,
+   "name": "爬爬",
+   "types": [
+    "虫",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 42,
+    "phy_atk": 37,
+    "mag_atk": 37,
+    "phy_def": 53,
+    "mag_def": 53,
+    "spd": 80
+   },
+   "move_types": [
+    "萌",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3138,
+   "name": "化蝶",
+   "types": [
+    "虫",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 53,
+    "phy_atk": 46,
+    "mag_atk": 46,
+    "phy_def": 66,
+    "mag_def": 66,
+    "spd": 100
+   },
+   "move_types": [
+    "萌",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3139,
+   "name": "小草虫",
+   "types": [
+    "草",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 73,
+    "phy_atk": 40,
+    "mag_atk": 43,
+    "phy_def": 50,
+    "mag_def": 57,
+    "spd": 60
+   },
+   "move_types": [
+    "草",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3140,
+   "name": "草衣虫",
+   "types": [
+    "草",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 53,
+    "mag_atk": 57,
+    "phy_def": 67,
+    "mag_def": 75,
+    "spd": 80
+   },
+   "move_types": [
+    "草",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3141,
+   "name": "花衣蝶",
+   "types": [
+    "草",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 122,
+    "phy_atk": 67,
+    "mag_atk": 72,
+    "phy_def": 84,
+    "mag_def": 94,
+    "spd": 100
+   },
+   "move_types": [
+    "草",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3142,
+   "name": "小夜",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 60,
+    "phy_atk": 69,
+    "mag_atk": 63,
+    "phy_def": 62,
+    "mag_def": 51,
+    "spd": 69
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3143,
+   "name": "紫夜",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 92,
+    "mag_atk": 84,
+    "phy_def": 83,
+    "mag_def": 68,
+    "spd": 92
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3144,
+   "name": "朔夜伊芙",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 115,
+    "mag_atk": 105,
+    "phy_def": 104,
+    "mag_def": 85,
+    "spd": 115
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3145,
+   "name": "小灵菇",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 59,
+    "mag_atk": 59,
+    "phy_def": 62,
+    "mag_def": 82,
+    "spd": 45
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3146,
+   "name": "幻灵菇",
+   "types": [
+    "草",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 79,
+    "mag_atk": 79,
+    "phy_def": 83,
+    "mag_def": 109,
+    "spd": 60
+   },
+   "move_types": [
+    "幽",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3147,
+   "name": "幻影灵菇",
+   "types": [
+    "草",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 111,
+    "phy_atk": 98,
+    "mag_atk": 98,
+    "phy_def": 103,
+    "mag_def": 136,
+    "spd": 75
+   },
+   "move_types": [
+    "幽",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3148,
+   "name": "空空颅",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 70,
+    "phy_atk": 7,
+    "mag_atk": 37,
+    "phy_def": 54,
+    "mag_def": 64,
+    "spd": 48
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3149,
+   "name": "夜宿颅",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 94,
+    "phy_atk": 9,
+    "mag_atk": 49,
+    "phy_def": 72,
+    "mag_def": 85,
+    "spd": 64
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3150,
+   "name": "夜枭",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 117,
+    "phy_atk": 10,
+    "mag_atk": 61,
+    "phy_def": 90,
+    "mag_def": 106,
+    "spd": 80
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3151,
+   "name": "多多",
+   "types": [
+    "地面",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 47,
+    "phy_atk": 53,
+    "mag_atk": 53,
+    "phy_def": 82,
+    "mag_def": 66,
+    "spd": 54
+   },
+   "move_types": [
+    "地面",
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3152,
+   "name": "多啦多",
+   "types": [
+    "地面",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 63,
+    "phy_atk": 70,
+    "mag_atk": 70,
+    "phy_def": 109,
+    "mag_def": 88,
+    "spd": 72
+   },
+   "move_types": [
+    "地面",
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3153,
+   "name": "古啦多",
+   "types": [
+    "地面",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 88,
+    "mag_atk": 88,
+    "phy_def": 136,
+    "mag_def": 110,
+    "spd": 90
+   },
+   "move_types": [
+    "地面",
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3154,
+   "name": "裘洛",
+   "types": [
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 44,
+    "phy_atk": 56,
+    "mag_atk": 50,
+    "phy_def": 39,
+    "mag_def": 48,
+    "spd": 75
+   },
+   "move_types": [
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3155,
+   "name": "裘力",
+   "types": [
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 59,
+    "phy_atk": 74,
+    "mag_atk": 67,
+    "phy_def": 52,
+    "mag_def": 64,
+    "spd": 100
+   },
+   "move_types": [
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3156,
+   "name": "裘卡",
+   "types": [
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 73,
+    "phy_atk": 93,
+    "mag_atk": 83,
+    "phy_def": 65,
+    "mag_def": 81,
+    "spd": 125
+   },
+   "move_types": [
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3157,
+   "name": "花魁蜂后",
+   "types": [
+    "虫",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 145,
+    "phy_atk": 54,
+    "mag_atk": 49,
+    "phy_def": 45,
+    "mag_def": 45,
+    "spd": 44
+   },
+   "move_types": [
+    "翼",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3158,
+   "name": "武斗酷猫",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 127,
+    "phy_atk": 115,
+    "mag_atk": 115,
+    "phy_def": 113,
+    "mag_def": 119,
+    "spd": 66
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3161,
+   "name": "春团",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 48,
+    "phy_atk": 51,
+    "mag_atk": 57,
+    "phy_def": 65,
+    "mag_def": 57,
+    "spd": 63
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3162,
+   "name": "春兔",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 63,
+    "phy_atk": 68,
+    "mag_atk": 76,
+    "phy_def": 87,
+    "mag_def": 77,
+    "spd": 84
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3165,
+   "name": "伏地兽",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 95,
+    "phy_atk": 56,
+    "mag_atk": 25,
+    "phy_def": 70,
+    "mag_def": 41,
+    "spd": 51
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3166,
+   "name": "贪食鼹",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 126,
+    "phy_atk": 74,
+    "mag_atk": 33,
+    "phy_def": 94,
+    "mag_def": 54,
+    "spd": 68
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3167,
+   "name": "巨噬针鼹",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 158,
+    "phy_atk": 93,
+    "mag_atk": 41,
+    "phy_def": 117,
+    "mag_def": 68,
+    "spd": 85
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3168,
+   "name": "阿布",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 86,
+    "phy_atk": 100,
+    "mag_atk": 100,
+    "phy_def": 77,
+    "mag_def": 77,
+    "spd": 80
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3169,
+   "name": "超能阿布",
+   "types": [
+    "龙"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 124,
+    "mag_atk": 124,
+    "phy_def": 96,
+    "mag_def": 96,
+    "spd": 100
+   },
+   "move_types": [
+    "龙"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3170,
+   "name": "石石",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 76,
+    "phy_atk": 79,
+    "mag_atk": 79,
+    "phy_def": 101,
+    "mag_def": 56,
+    "spd": 76
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3171,
+   "name": "巨灵石",
+   "types": [
+    "地面",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 95,
+    "phy_atk": 99,
+    "mag_atk": 99,
+    "phy_def": 126,
+    "mag_def": 70,
+    "spd": 95
+   },
+   "move_types": [
+    "地面",
+    "幽"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3172,
+   "name": "雪豆丁",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 104,
+    "mag_atk": 47,
+    "phy_def": 83,
+    "mag_def": 62,
+    "spd": 36
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3173,
+   "name": "雪蛮人",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 130,
+    "phy_atk": 139,
+    "mag_atk": 63,
+    "phy_def": 111,
+    "mag_def": 83,
+    "spd": 48
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3174,
+   "name": "雪巨人",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 162,
+    "phy_atk": 174,
+    "mag_atk": 79,
+    "phy_def": 139,
+    "mag_def": 104,
+    "spd": 60
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3175,
+   "name": "咔咔羽毛",
+   "types": [
+    "普通",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 58,
+    "phy_atk": 68,
+    "mag_atk": 66,
+    "phy_def": 61,
+    "mag_def": 53,
+    "spd": 72
+   },
+   "move_types": [
+    "普通",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3176,
+   "name": "咔咔雀",
+   "types": [
+    "普通",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 91,
+    "mag_atk": 88,
+    "phy_def": 81,
+    "mag_def": 71,
+    "spd": 96
+   },
+   "move_types": [
+    "普通",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3177,
+   "name": "咔咔鸟",
+   "types": [
+    "普通",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 114,
+    "mag_atk": 110,
+    "phy_def": 101,
+    "mag_def": 89,
+    "spd": 120
+   },
+   "move_types": [
+    "普通",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3178,
+   "name": "矮脚爬爬",
+   "types": [
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 117,
+    "mag_atk": 110,
+    "phy_def": 74,
+    "mag_def": 59,
+    "spd": 92
+   },
+   "move_types": [
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3179,
+   "name": "恶魔红钻",
+   "types": [
+    "虫",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 147,
+    "mag_atk": 137,
+    "phy_def": 93,
+    "mag_def": 74,
+    "spd": 115
+   },
+   "move_types": [
+    "恶",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3180,
+   "name": "小帕尔",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 76,
+    "mag_atk": 34,
+    "phy_def": 79,
+    "mag_def": 52,
+    "spd": 60
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3181,
+   "name": "帕尔萨斯",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 104,
+    "phy_atk": 102,
+    "mag_atk": 46,
+    "phy_def": 105,
+    "mag_def": 70,
+    "spd": 80
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3182,
+   "name": "龙息帕尔",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 130,
+    "phy_atk": 127,
+    "mag_atk": 57,
+    "phy_def": 131,
+    "mag_def": 87,
+    "spd": 100
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3183,
+   "name": "瑰眼仔",
+   "types": [
+    "虫",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 59,
+    "mag_atk": 60,
+    "phy_def": 59,
+    "mag_def": 59,
+    "spd": 57
+   },
+   "move_types": [
+    "恶",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3184,
+   "name": "耳翎瑰魅",
+   "types": [
+    "虫",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 130,
+    "phy_atk": 78,
+    "mag_atk": 80,
+    "phy_def": 79,
+    "mag_def": 79,
+    "spd": 76
+   },
+   "move_types": [
+    "恶",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3185,
+   "name": "邪眼巨魔",
+   "types": [
+    "虫",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 162,
+    "phy_atk": 98,
+    "mag_atk": 99,
+    "phy_def": 99,
+    "mag_def": 99,
+    "spd": 95
+   },
+   "move_types": [
+    "恶",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3188,
+   "name": "拉特",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 80,
+    "mag_atk": 80,
+    "phy_def": 62,
+    "mag_def": 78,
+    "spd": 100
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3189,
+   "name": "酷拉",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 83,
+    "phy_atk": 100,
+    "mag_atk": 100,
+    "phy_def": 78,
+    "mag_def": 97,
+    "spd": 125
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3190,
+   "name": "电咩咩",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 47,
+    "phy_atk": 49,
+    "mag_atk": 49,
+    "phy_def": 55,
+    "mag_def": 57,
+    "spd": 75
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3191,
+   "name": "粉咩咩",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 62,
+    "phy_atk": 66,
+    "mag_atk": 66,
+    "phy_def": 73,
+    "mag_def": 76,
+    "spd": 100
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3192,
+   "name": "电球咩咩",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 82,
+    "mag_atk": 82,
+    "phy_def": 91,
+    "mag_def": 95,
+    "spd": 125
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3193,
+   "name": "小星光",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 60,
+    "phy_atk": 81,
+    "mag_atk": 85,
+    "phy_def": 72,
+    "mag_def": 88,
+    "spd": 108
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3194,
+   "name": "星光狮",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 101,
+    "mag_atk": 106,
+    "phy_def": 90,
+    "mag_def": 110,
+    "spd": 135
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3195,
+   "name": "闪电环",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 64,
+    "phy_atk": 49,
+    "mag_atk": 49,
+    "phy_def": 51,
+    "mag_def": 50,
+    "spd": 72
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3196,
+   "name": "刺电环",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 65,
+    "mag_atk": 65,
+    "phy_def": 68,
+    "mag_def": 67,
+    "spd": 96
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3197,
+   "name": "荆棘电环",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 81,
+    "mag_atk": 81,
+    "phy_def": 85,
+    "mag_def": 84,
+    "spd": 120
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3198,
+   "name": "粉粉星",
+   "types": [
+    "电",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 54,
+    "mag_atk": 102,
+    "phy_def": 57,
+    "mag_def": 101,
+    "spd": 88
+   },
+   "move_types": [
+    "幻",
+    "电"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3199,
+   "name": "小皮球",
+   "types": [
+    "电",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 116,
+    "phy_atk": 68,
+    "mag_atk": 127,
+    "phy_def": 71,
+    "mag_def": 126,
+    "spd": 110
+   },
+   "move_types": [
+    "幻",
+    "电"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3200,
+   "name": "机械方方",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 62,
+    "phy_atk": 81,
+    "mag_atk": 32,
+    "phy_def": 76,
+    "mag_def": 60,
+    "spd": 51
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3201,
+   "name": "多彩方方",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 82,
+    "phy_atk": 108,
+    "mag_atk": 43,
+    "phy_def": 101,
+    "mag_def": 80,
+    "spd": 68
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3202,
+   "name": "立方人",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 103,
+    "phy_atk": 135,
+    "mag_atk": 54,
+    "phy_def": 127,
+    "mag_def": 101,
+    "spd": 85
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3203,
+   "name": "贝瑟",
+   "types": [
+    "火",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 46,
+    "mag_atk": 78,
+    "phy_def": 51,
+    "mag_def": 98,
+    "spd": 33
+   },
+   "move_types": [
+    "机械",
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3204,
+   "name": "贝加尔",
+   "types": [
+    "火",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 105,
+    "phy_atk": 61,
+    "mag_atk": 104,
+    "phy_def": 68,
+    "mag_def": 130,
+    "spd": 44
+   },
+   "move_types": [
+    "机械",
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3205,
+   "name": "贝古斯",
+   "types": [
+    "火",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 132,
+    "phy_atk": 76,
+    "mag_atk": 130,
+    "phy_def": 85,
+    "mag_def": 163,
+    "spd": 55
+   },
+   "move_types": [
+    "机械",
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3206,
+   "name": "多西",
+   "types": [
+    "地面",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 64,
+    "phy_atk": 73,
+    "mag_atk": 26,
+    "phy_def": 82,
+    "mag_def": 70,
+    "spd": 30
+   },
+   "move_types": [
+    "地面",
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3207,
+   "name": "库多西",
+   "types": [
+    "地面",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 98,
+    "mag_atk": 34,
+    "phy_def": 109,
+    "mag_def": 93,
+    "spd": 40
+   },
+   "move_types": [
+    "地面",
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3208,
+   "name": "波多西",
+   "types": [
+    "地面",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 122,
+    "mag_atk": 43,
+    "phy_def": 136,
+    "mag_def": 116,
+    "spd": 50
+   },
+   "move_types": [
+    "地面",
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3209,
+   "name": "小翼龙",
+   "types": [
+    "龙",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 66,
+    "phy_atk": 91,
+    "mag_atk": 24,
+    "phy_def": 73,
+    "mag_def": 63,
+    "spd": 92
+   },
+   "move_types": [
+    "翼",
+    "龙"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3210,
+   "name": "翼龙",
+   "types": [
+    "龙",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 83,
+    "phy_atk": 114,
+    "mag_atk": 31,
+    "phy_def": 91,
+    "mag_def": 79,
+    "spd": 115
+   },
+   "move_types": [
+    "翼",
+    "龙"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3211,
+   "name": "伊雷龙",
+   "types": [
+    "龙"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 73,
+    "mag_atk": 152,
+    "phy_def": 55,
+    "mag_def": 79,
+    "spd": 72
+   },
+   "move_types": [
+    "龙"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3215,
+   "name": "海豹战士",
+   "types": [
+    "水",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 91,
+    "mag_atk": 87,
+    "phy_def": 89,
+    "mag_def": 62,
+    "spd": 80
+   },
+   "move_types": [
+    "武",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3216,
+   "name": "海豹船长",
+   "types": [
+    "水",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 113,
+    "mag_atk": 109,
+    "phy_def": 111,
+    "mag_def": 77,
+    "spd": 100
+   },
+   "move_types": [
+    "武",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3217,
+   "name": "呼拉猫",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 91,
+    "mag_atk": 41,
+    "phy_def": 53,
+    "mag_def": 34,
+    "spd": 74
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3218,
+   "name": "增肌猫",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 121,
+    "mag_atk": 55,
+    "phy_def": 70,
+    "mag_def": 46,
+    "spd": 99
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3219,
+   "name": "健猫教练",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 133,
+    "phy_atk": 151,
+    "mag_atk": 69,
+    "phy_def": 88,
+    "mag_def": 57,
+    "spd": 123
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3225,
+   "name": "古钟蛇",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 63,
+    "mag_atk": 63,
+    "phy_def": 64,
+    "mag_def": 91,
+    "spd": 80
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3226,
+   "name": "寒音蛇",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 79,
+    "mag_atk": 79,
+    "phy_def": 80,
+    "mag_def": 114,
+    "spd": 100
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3227,
+   "name": "菊花梨",
+   "types": [
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 49,
+    "mag_atk": 116,
+    "phy_def": 77,
+    "mag_def": 115,
+    "spd": 60
+   },
+   "move_types": [
+    "萌"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3234,
+   "name": "牵线木偶",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 73,
+    "mag_atk": 77,
+    "phy_def": 66,
+    "mag_def": 95,
+    "spd": 84
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3235,
+   "name": "帅帅魔偶",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 111,
+    "phy_atk": 91,
+    "mag_atk": 96,
+    "phy_def": 83,
+    "mag_def": 119,
+    "spd": 105
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3236,
+   "name": "超能球球",
+   "types": [
+    "萌",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 93,
+    "mag_atk": 102,
+    "phy_def": 76,
+    "mag_def": 102,
+    "spd": 85
+   },
+   "move_types": [
+    "幻",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3237,
+   "name": "小怂猫",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 74,
+    "phy_atk": 106,
+    "mag_atk": 101,
+    "phy_def": 89,
+    "mag_def": 76,
+    "spd": 76
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3238,
+   "name": "怒目怂猫",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 132,
+    "mag_atk": 126,
+    "phy_def": 111,
+    "mag_def": 95,
+    "spd": 95
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3239,
+   "name": "哭哭菇",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 74,
+    "phy_atk": 38,
+    "mag_atk": 41,
+    "phy_def": 30,
+    "mag_def": 60,
+    "spd": 36
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3240,
+   "name": "怖须菇",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 50,
+    "mag_atk": 55,
+    "phy_def": 40,
+    "mag_def": 80,
+    "spd": 48
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3241,
+   "name": "怖哭菇",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 124,
+    "phy_atk": 63,
+    "mag_atk": 69,
+    "phy_def": 50,
+    "mag_def": 100,
+    "spd": 60
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3244,
+   "name": "绒绒",
+   "types": [
+    "光",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 58,
+    "phy_atk": 42,
+    "mag_atk": 44,
+    "phy_def": 49,
+    "mag_def": 80,
+    "spd": 69
+   },
+   "move_types": [
+    "光",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3245,
+   "name": "小绒茧",
+   "types": [
+    "光",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 77,
+    "phy_atk": 56,
+    "mag_atk": 58,
+    "phy_def": 65,
+    "mag_def": 106,
+    "spd": 92
+   },
+   "move_types": [
+    "光",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3246,
+   "name": "绒仙子",
+   "types": [
+    "光",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 96,
+    "phy_atk": 71,
+    "mag_atk": 73,
+    "phy_def": 81,
+    "mag_def": 133,
+    "spd": 115
+   },
+   "move_types": [
+    "光",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3250,
+   "name": "小鹬",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 56,
+    "phy_atk": 38,
+    "mag_atk": 38,
+    "phy_def": 67,
+    "mag_def": 52,
+    "spd": 69
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3251,
+   "name": "鄙目鹬",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 51,
+    "mag_atk": 51,
+    "phy_def": 90,
+    "mag_def": 70,
+    "spd": 92
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3252,
+   "name": "高脚鹬",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 94,
+    "phy_atk": 63,
+    "mag_atk": 63,
+    "phy_def": 112,
+    "mag_def": 87,
+    "spd": 115
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3255,
+   "name": "奔波鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 37,
+    "mag_atk": 93,
+    "phy_def": 67,
+    "mag_def": 90,
+    "spd": 92
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3256,
+   "name": "流浪鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 46,
+    "mag_atk": 116,
+    "phy_def": 84,
+    "mag_def": 112,
+    "spd": 115
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3257,
+   "name": "布鲁斯",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 44,
+    "phy_atk": 60,
+    "mag_atk": 16,
+    "phy_def": 68,
+    "mag_def": 53,
+    "spd": 54
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3258,
+   "name": "雪顶布鲁斯",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 58,
+    "phy_atk": 81,
+    "mag_atk": 22,
+    "phy_def": 91,
+    "mag_def": 70,
+    "spd": 72
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3259,
+   "name": "冰钻布鲁斯",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 73,
+    "phy_atk": 101,
+    "mag_atk": 27,
+    "phy_def": 114,
+    "mag_def": 88,
+    "spd": 90
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3262,
+   "name": "呼呼猪",
+   "types": [
+    "地面",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 98,
+    "phy_atk": 95,
+    "mag_atk": 33,
+    "phy_def": 88,
+    "mag_def": 81,
+    "spd": 68
+   },
+   "move_types": [
+    "冰",
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3263,
+   "name": "獠牙猪",
+   "types": [
+    "地面",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 123,
+    "phy_atk": 119,
+    "mag_atk": 41,
+    "phy_def": 110,
+    "mag_def": 101,
+    "spd": 85
+   },
+   "move_types": [
+    "冰",
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3264,
+   "name": "卡波",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 98,
+    "phy_atk": 107,
+    "mag_atk": 40,
+    "phy_def": 60,
+    "mag_def": 48,
+    "spd": 80
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3265,
+   "name": "卡拉波斯",
+   "types": [
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 123,
+    "phy_atk": 134,
+    "mag_atk": 50,
+    "phy_def": 75,
+    "mag_def": 60,
+    "spd": 100
+   },
+   "move_types": [
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3266,
+   "name": "胆小鳗鱼",
+   "types": [
+    "水",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 68,
+    "phy_atk": 92,
+    "mag_atk": 92,
+    "phy_def": 83,
+    "mag_def": 90,
+    "spd": 92
+   },
+   "move_types": [
+    "水",
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3267,
+   "name": "闪电鳗鱼",
+   "types": [
+    "水",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 115,
+    "mag_atk": 115,
+    "phy_def": 104,
+    "mag_def": 112,
+    "spd": 115
+   },
+   "move_types": [
+    "水",
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3268,
+   "name": "大头骨龙",
+   "types": [
+    "龙",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 96,
+    "phy_atk": 109,
+    "mag_atk": 40,
+    "phy_def": 84,
+    "mag_def": 65,
+    "spd": 48
+   },
+   "move_types": [
+    "幽",
+    "龙"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3269,
+   "name": "寂灭骨龙",
+   "types": [
+    "龙",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 120,
+    "phy_atk": 137,
+    "mag_atk": 50,
+    "phy_def": 104,
+    "mag_def": 81,
+    "spd": 60
+   },
+   "move_types": [
+    "幽",
+    "龙"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3276,
+   "name": "绿翼鸟",
+   "types": [
+    "翼",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 52,
+    "phy_atk": 68,
+    "mag_atk": 20,
+    "phy_def": 56,
+    "mag_def": 53,
+    "spd": 81
+   },
+   "move_types": [
+    "翼",
+    "萌"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3277,
+   "name": "魔翼鸟",
+   "types": [
+    "翼",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 70,
+    "phy_atk": 91,
+    "mag_atk": 27,
+    "phy_def": 75,
+    "mag_def": 70,
+    "spd": 108
+   },
+   "move_types": [
+    "翼",
+    "萌"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3278,
+   "name": "魔眷鸟",
+   "types": [
+    "翼",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 87,
+    "phy_atk": 113,
+    "mag_atk": 34,
+    "phy_def": 94,
+    "mag_def": 88,
+    "spd": 135
+   },
+   "move_types": [
+    "翼",
+    "萌"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3279,
+   "name": "雪绒鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 56,
+    "phy_atk": 77,
+    "mag_atk": 26,
+    "phy_def": 58,
+    "mag_def": 49,
+    "spd": 69
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3280,
+   "name": "雪绒鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 59,
+    "phy_atk": 80,
+    "mag_atk": 32,
+    "phy_def": 58,
+    "mag_def": 41,
+    "spd": 69
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3281,
+   "name": "雪绒鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 54,
+    "phy_atk": 76,
+    "mag_atk": 25,
+    "phy_def": 59,
+    "mag_def": 51,
+    "spd": 69
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3282,
+   "name": "冬羽雀",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 103,
+    "mag_atk": 35,
+    "phy_def": 78,
+    "mag_def": 65,
+    "spd": 92
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3283,
+   "name": "冬羽雀",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 107,
+    "mag_atk": 43,
+    "phy_def": 77,
+    "mag_def": 55,
+    "spd": 92
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3284,
+   "name": "冬羽雀",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 102,
+    "mag_atk": 34,
+    "phy_def": 78,
+    "mag_def": 68,
+    "spd": 92
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3285,
+   "name": "岚鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 128,
+    "mag_atk": 44,
+    "phy_def": 97,
+    "mag_def": 81,
+    "spd": 115
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3286,
+   "name": "岚鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 133,
+    "mag_atk": 54,
+    "phy_def": 96,
+    "mag_def": 69,
+    "spd": 115
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3287,
+   "name": "岚鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 127,
+    "mag_atk": 42,
+    "phy_def": 98,
+    "mag_def": 85,
+    "spd": 115
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3289,
+   "name": "丢丢",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 44,
+    "phy_atk": 42,
+    "mag_atk": 12,
+    "phy_def": 55,
+    "mag_def": 43,
+    "spd": 75
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3290,
+   "name": "丢丢",
+   "types": [
+    "草",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 46,
+    "phy_atk": 41,
+    "mag_atk": 8,
+    "phy_def": 48,
+    "mag_def": 44,
+    "spd": 81
+   },
+   "move_types": [
+    "冰",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3292,
+   "name": "卡卡虫",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 58,
+    "phy_atk": 56,
+    "mag_atk": 16,
+    "phy_def": 74,
+    "mag_def": 57,
+    "spd": 100
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3293,
+   "name": "卡卡虫",
+   "types": [
+    "草",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 62,
+    "phy_atk": 54,
+    "mag_atk": 11,
+    "phy_def": 64,
+    "mag_def": 58,
+    "spd": 108
+   },
+   "move_types": [
+    "冰",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3295,
+   "name": "卡瓦重",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 73,
+    "phy_atk": 70,
+    "mag_atk": 20,
+    "phy_def": 92,
+    "mag_def": 71,
+    "spd": 125
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3296,
+   "name": "卡瓦重",
+   "types": [
+    "草",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 77,
+    "phy_atk": 68,
+    "mag_atk": 14,
+    "phy_def": 79,
+    "mag_def": 73,
+    "spd": 135
+   },
+   "move_types": [
+    "冰",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3297,
+   "name": "蹦蹦种子",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 62,
+    "phy_atk": 61,
+    "mag_atk": 66,
+    "phy_def": 44,
+    "mag_def": 63,
+    "spd": 51
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3298,
+   "name": "蹦蹦种子",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 57,
+    "phy_atk": 62,
+    "mag_atk": 66,
+    "phy_def": 48,
+    "mag_def": 67,
+    "spd": 48
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3299,
+   "name": "蹦蹦种子",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 59,
+    "phy_atk": 60,
+    "mag_atk": 66,
+    "phy_def": 44,
+    "mag_def": 63,
+    "spd": 54
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3300,
+   "name": "蹦蹦草",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 83,
+    "phy_atk": 81,
+    "mag_atk": 87,
+    "phy_def": 59,
+    "mag_def": 84,
+    "spd": 68
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3301,
+   "name": "蹦蹦草",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 76,
+    "phy_atk": 82,
+    "mag_atk": 87,
+    "phy_def": 64,
+    "mag_def": 90,
+    "spd": 64
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3302,
+   "name": "蹦蹦草",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 80,
+    "mag_atk": 88,
+    "phy_def": 59,
+    "mag_def": 84,
+    "spd": 72
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3303,
+   "name": "蹦蹦花",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 103,
+    "phy_atk": 101,
+    "mag_atk": 109,
+    "phy_def": 73,
+    "mag_def": 105,
+    "spd": 85
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3304,
+   "name": "蹦蹦花",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 95,
+    "phy_atk": 103,
+    "mag_atk": 109,
+    "phy_def": 80,
+    "mag_def": 112,
+    "spd": 80
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3305,
+   "name": "蹦蹦花",
+   "types": [
+    "草",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 100,
+    "mag_atk": 110,
+    "phy_def": 73,
+    "mag_def": 106,
+    "spd": 90
+   },
+   "move_types": [
+    "毒",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3307,
+   "name": "矿晶虫",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 77,
+    "mag_atk": 81,
+    "phy_def": 102,
+    "mag_def": 75,
+    "spd": 52
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3308,
+   "name": "晶石蜗",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 96,
+    "mag_atk": 101,
+    "phy_def": 128,
+    "mag_def": 94,
+    "spd": 65
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3309,
+   "name": "犀角鸟",
+   "types": [
+    "光"
+   ],
+   "base_stats": {
+    "hp": 63,
+    "phy_atk": 88,
+    "mag_atk": 40,
+    "phy_def": 67,
+    "mag_def": 44,
+    "spd": 66
+   },
+   "move_types": [
+    "光"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3310,
+   "name": "光纤兽",
+   "types": [
+    "光"
+   ],
+   "base_stats": {
+    "hp": 83,
+    "phy_atk": 117,
+    "mag_atk": 54,
+    "phy_def": 90,
+    "mag_def": 58,
+    "spd": 88
+   },
+   "move_types": [
+    "光"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3311,
+   "name": "疾光千兽",
+   "types": [
+    "光"
+   ],
+   "base_stats": {
+    "hp": 104,
+    "phy_atk": 146,
+    "mag_atk": 67,
+    "phy_def": 112,
+    "mag_def": 73,
+    "spd": 110
+   },
+   "move_types": [
+    "光"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3315,
+   "name": "小鼠獭",
+   "types": [
+    "普通",
+    "水"
+   ],
+   "base_stats": {
+    "hp": 73,
+    "phy_atk": 57,
+    "mag_atk": 57,
+    "phy_def": 60,
+    "mag_def": 60,
+    "spd": 48
+   },
+   "move_types": [
+    "普通",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3316,
+   "name": "燕尾獭",
+   "types": [
+    "普通",
+    "水"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 77,
+    "mag_atk": 77,
+    "phy_def": 81,
+    "mag_def": 81,
+    "spd": 64
+   },
+   "move_types": [
+    "普通",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3317,
+   "name": "卷胡巨獭",
+   "types": [
+    "普通",
+    "水"
+   ],
+   "base_stats": {
+    "hp": 121,
+    "phy_atk": 96,
+    "mag_atk": 96,
+    "phy_def": 101,
+    "mag_def": 101,
+    "spd": 80
+   },
+   "move_types": [
+    "普通",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3319,
+   "name": "粉星仔",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 63,
+    "mag_atk": 119,
+    "phy_def": 58,
+    "mag_def": 102,
+    "spd": 92
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3320,
+   "name": "粉耳星兔",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 79,
+    "mag_atk": 148,
+    "phy_def": 73,
+    "mag_def": 127,
+    "spd": 115
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3330,
+   "name": "海盔虫",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 71,
+    "phy_atk": 25,
+    "mag_atk": 59,
+    "phy_def": 46,
+    "mag_def": 66,
+    "spd": 60
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3331,
+   "name": "刺盔虫",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 94,
+    "phy_atk": 33,
+    "mag_atk": 79,
+    "phy_def": 61,
+    "mag_def": 88,
+    "spd": 80
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3332,
+   "name": "千棘盔",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 118,
+    "phy_atk": 41,
+    "mag_atk": 99,
+    "phy_def": 76,
+    "mag_def": 111,
+    "spd": 100
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3333,
+   "name": "雪娃娃",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 56,
+    "phy_atk": 67,
+    "mag_atk": 67,
+    "phy_def": 63,
+    "mag_def": 63,
+    "spd": 69
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3334,
+   "name": "冰封怨灵",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 90,
+    "mag_atk": 90,
+    "phy_def": 84,
+    "mag_def": 84,
+    "spd": 92
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3335,
+   "name": "雪灵",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 94,
+    "phy_atk": 112,
+    "mag_atk": 112,
+    "phy_def": 105,
+    "mag_def": 105,
+    "spd": 115
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3344,
+   "name": "乖乖鹄",
+   "types": [
+    "水",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 57,
+    "mag_atk": 52,
+    "phy_def": 83,
+    "mag_def": 58,
+    "spd": 69
+   },
+   "move_types": [
+    "水",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3345,
+   "name": "蓝珠天鹅",
+   "types": [
+    "水",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 76,
+    "mag_atk": 69,
+    "phy_def": 110,
+    "mag_def": 78,
+    "spd": 92
+   },
+   "move_types": [
+    "水",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3346,
+   "name": "翠顶夫人",
+   "types": [
+    "水",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 125,
+    "phy_atk": 95,
+    "mag_atk": 86,
+    "phy_def": 138,
+    "mag_def": 97,
+    "spd": 115
+   },
+   "move_types": [
+    "水",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3350,
+   "name": "红绒十字",
+   "types": [
+    "火",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 112,
+    "phy_atk": 47,
+    "mag_atk": 122,
+    "phy_def": 100,
+    "mag_def": 127,
+    "spd": 90
+   },
+   "move_types": [
+    "火",
+    "萌"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3357,
+   "name": "电动长颈鹿",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 55,
+    "phy_atk": 59,
+    "mag_atk": 20,
+    "phy_def": 65,
+    "mag_def": 47,
+    "spd": 72
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3358,
+   "name": "奔乐鹿",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 73,
+    "phy_atk": 79,
+    "mag_atk": 27,
+    "phy_def": 86,
+    "mag_def": 63,
+    "spd": 96
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3359,
+   "name": "爵士鹿",
+   "types": [
+    "电"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 99,
+    "mag_atk": 34,
+    "phy_def": 108,
+    "mag_def": 79,
+    "spd": 120
+   },
+   "move_types": [
+    "电"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3367,
+   "name": "嘟嘟煲",
+   "types": [
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 110,
+    "phy_atk": 29,
+    "mag_atk": 82,
+    "phy_def": 71,
+    "mag_def": 83,
+    "spd": 84
+   },
+   "move_types": [
+    "毒"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3368,
+   "name": "嘟嘟锅",
+   "types": [
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 137,
+    "phy_atk": 36,
+    "mag_atk": 102,
+    "phy_def": 89,
+    "mag_def": 104,
+    "spd": 105
+   },
+   "move_types": [
+    "毒"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3369,
+   "name": "幽星光",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 49,
+    "phy_atk": 21,
+    "mag_atk": 63,
+    "phy_def": 48,
+    "mag_def": 63,
+    "spd": 75
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3370,
+   "name": "曜星光",
+   "types": [
+    "翼",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 65,
+    "phy_atk": 28,
+    "mag_atk": 84,
+    "phy_def": 64,
+    "mag_def": 84,
+    "spd": 100
+   },
+   "move_types": [
+    "幻",
+    "翼"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3371,
+   "name": "暮星辰",
+   "types": [
+    "翼",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 81,
+    "phy_atk": 35,
+    "mag_atk": 106,
+    "phy_def": 80,
+    "mag_def": 105,
+    "spd": 125
+   },
+   "move_types": [
+    "幻",
+    "翼"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3372,
+   "name": "春花兔",
+   "types": [
+    "草"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 85,
+    "mag_atk": 95,
+    "phy_def": 103,
+    "mag_def": 90,
+    "spd": 105
+   },
+   "move_types": [
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3373,
+   "name": "逗逗",
+   "types": [
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 48,
+    "phy_atk": 70,
+    "mag_atk": 64,
+    "phy_def": 68,
+    "mag_def": 68,
+    "spd": 66
+   },
+   "move_types": [
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3374,
+   "name": "气球猫",
+   "types": [
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 64,
+    "phy_atk": 93,
+    "mag_atk": 86,
+    "phy_def": 90,
+    "mag_def": 90,
+    "spd": 88
+   },
+   "move_types": [
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3375,
+   "name": "梦想三三",
+   "types": [
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 81,
+    "phy_atk": 117,
+    "mag_atk": 107,
+    "phy_def": 113,
+    "mag_def": 113,
+    "spd": 110
+   },
+   "move_types": [
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3376,
+   "name": "旋叶虫",
+   "types": [
+    "普通",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 56,
+    "phy_atk": 15,
+    "mag_atk": 65,
+    "phy_def": 63,
+    "mag_def": 55,
+    "spd": 72
+   },
+   "move_types": [
+    "普通",
+    "虫"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3377,
+   "name": "风滚暮虫",
+   "types": [
+    "普通",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 24,
+    "mag_atk": 109,
+    "phy_def": 105,
+    "mag_def": 91,
+    "spd": 120
+   },
+   "move_types": [
+    "普通",
+    "虫"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3378,
+   "name": "菇菇丁",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 61,
+    "mag_atk": 57,
+    "phy_def": 70,
+    "mag_def": 57,
+    "spd": 42
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3379,
+   "name": "多菇丁",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 119,
+    "phy_atk": 81,
+    "mag_atk": 76,
+    "phy_def": 93,
+    "mag_def": 76,
+    "spd": 56
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3380,
+   "name": "九幽菇",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 149,
+    "phy_atk": 102,
+    "mag_atk": 95,
+    "phy_def": 116,
+    "mag_def": 95,
+    "spd": 70
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3381,
+   "name": "深蓝鲸",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 129,
+    "phy_atk": 40,
+    "mag_atk": 115,
+    "phy_def": 119,
+    "mag_def": 135,
+    "spd": 50
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3382,
+   "name": "双灯鱼",
+   "types": [
+    "水",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 102,
+    "phy_atk": 55,
+    "mag_atk": 111,
+    "phy_def": 57,
+    "mag_def": 93,
+    "spd": 84
+   },
+   "move_types": [
+    "水",
+    "电"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3383,
+   "name": "利灯鱼",
+   "types": [
+    "水",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 128,
+    "phy_atk": 68,
+    "mag_atk": 138,
+    "phy_def": 71,
+    "mag_def": 116,
+    "spd": 105
+   },
+   "move_types": [
+    "水",
+    "电"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3384,
+   "name": "豆丁鱼",
+   "types": [
+    "水",
+    "龙"
+   ],
+   "base_stats": {
+    "hp": 45,
+    "phy_atk": 70,
+    "mag_atk": 74,
+    "phy_def": 67,
+    "mag_def": 70,
+    "spd": 75
+   },
+   "move_types": [
+    "水",
+    "龙"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3385,
+   "name": "快鳍鱼",
+   "types": [
+    "水",
+    "龙"
+   ],
+   "base_stats": {
+    "hp": 60,
+    "phy_atk": 93,
+    "mag_atk": 99,
+    "phy_def": 89,
+    "mag_def": 93,
+    "spd": 100
+   },
+   "move_types": [
+    "水",
+    "龙"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3386,
+   "name": "龙鱼",
+   "types": [
+    "水",
+    "龙"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 116,
+    "mag_atk": 123,
+    "phy_def": 112,
+    "mag_def": 116,
+    "spd": 125
+   },
+   "move_types": [
+    "水",
+    "龙"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3392,
+   "name": "凡雀",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 47,
+    "phy_atk": 77,
+    "mag_atk": 74,
+    "phy_def": 52,
+    "mag_def": 52,
+    "spd": 75
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3393,
+   "name": "紫翎鹰",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 63,
+    "phy_atk": 103,
+    "mag_atk": 99,
+    "phy_def": 69,
+    "mag_def": 69,
+    "spd": 100
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3394,
+   "name": "凡鹰",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 128,
+    "mag_atk": 124,
+    "phy_def": 86,
+    "mag_def": 86,
+    "spd": 125
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3395,
+   "name": "里奥",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 65,
+    "mag_atk": 65,
+    "phy_def": 77,
+    "mag_def": 50,
+    "spd": 75
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3396,
+   "name": "灵羽勇士",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 105,
+    "phy_atk": 87,
+    "mag_atk": 87,
+    "phy_def": 102,
+    "mag_def": 66,
+    "spd": 100
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3397,
+   "name": "圣羽翼王",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 132,
+    "phy_atk": 109,
+    "mag_atk": 109,
+    "phy_def": 128,
+    "mag_def": 83,
+    "spd": 125
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3398,
+   "name": "星尘虫",
+   "types": [
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 49,
+    "phy_atk": 47,
+    "mag_atk": 47,
+    "phy_def": 46,
+    "mag_def": 58,
+    "spd": 60
+   },
+   "move_types": [
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3399,
+   "name": "落星虫",
+   "types": [
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 65,
+    "phy_atk": 62,
+    "mag_atk": 62,
+    "phy_def": 61,
+    "mag_def": 77,
+    "spd": 80
+   },
+   "move_types": [
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3400,
+   "name": "陨星虫",
+   "types": [
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 81,
+    "phy_atk": 78,
+    "mag_atk": 78,
+    "phy_def": 76,
+    "mag_def": 96,
+    "spd": 100
+   },
+   "move_types": [
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3405,
+   "name": "幽冥眼",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 50,
+    "mag_atk": 120,
+    "phy_def": 98,
+    "mag_def": 135,
+    "spd": 115
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3406,
+   "name": "缇塔",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 73,
+    "phy_atk": 99,
+    "mag_atk": 38,
+    "phy_def": 98,
+    "mag_def": 74,
+    "spd": 72
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3407,
+   "name": "声波缇塔",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 92,
+    "phy_atk": 124,
+    "mag_atk": 48,
+    "phy_def": 122,
+    "mag_def": 92,
+    "spd": 90
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3408,
+   "name": "齿轮小子",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 43,
+    "mag_atk": 111,
+    "phy_def": 72,
+    "mag_def": 89,
+    "spd": 68
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3409,
+   "name": "机甲小子",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 113,
+    "phy_atk": 53,
+    "mag_atk": 139,
+    "phy_def": 90,
+    "mag_def": 112,
+    "spd": 85
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3410,
+   "name": "权杖-Ⅱ",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 82,
+    "phy_atk": 84,
+    "mag_atk": 78,
+    "phy_def": 109,
+    "mag_def": 109,
+    "spd": 60
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3411,
+   "name": "权杖-V",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 103,
+    "phy_atk": 105,
+    "mag_atk": 97,
+    "phy_def": 136,
+    "mag_def": 136,
+    "spd": 75
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3412,
+   "name": "伊兰亚龙",
+   "types": [
+    "龙"
+   ],
+   "base_stats": {
+    "hp": 112,
+    "phy_atk": 91,
+    "mag_atk": 190,
+    "phy_def": 69,
+    "mag_def": 99,
+    "spd": 90
+   },
+   "move_types": [
+    "龙"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3416,
+   "name": "格斗小五",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 110,
+    "phy_atk": 105,
+    "mag_atk": 105,
+    "phy_def": 110,
+    "mag_def": 85,
+    "spd": 135
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3417,
+   "name": "格斗小六",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 76,
+    "phy_atk": 144,
+    "mag_atk": 63,
+    "phy_def": 118,
+    "mag_def": 88,
+    "spd": 150
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3418,
+   "name": "格斗小八",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 136,
+    "phy_atk": 135,
+    "mag_atk": 50,
+    "phy_def": 104,
+    "mag_def": 84,
+    "spd": 66
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3419,
+   "name": "厉毒小萝",
+   "types": [
+    "毒",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 64,
+    "mag_atk": 17,
+    "phy_def": 81,
+    "mag_def": 59,
+    "spd": 108
+   },
+   "move_types": [
+    "恶",
+    "毒"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3420,
+   "name": "厉毒修萝",
+   "types": [
+    "毒",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 84,
+    "phy_atk": 80,
+    "mag_atk": 21,
+    "phy_def": 101,
+    "mag_def": 74,
+    "spd": 135
+   },
+   "move_types": [
+    "恶",
+    "毒"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3430,
+   "name": "海枝枝",
+   "types": [
+    "水",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 58,
+    "mag_atk": 148,
+    "phy_def": 96,
+    "mag_def": 120,
+    "spd": 110
+   },
+   "move_types": [
+    "幽",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3431,
+   "name": "海枝枝",
+   "types": [
+    "水",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 91,
+    "phy_atk": 48,
+    "mag_atk": 125,
+    "phy_def": 104,
+    "mag_def": 129,
+    "spd": 110
+   },
+   "move_types": [
+    "幽",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3432,
+   "name": "海枝枝",
+   "types": [
+    "水",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 62,
+    "mag_atk": 136,
+    "phy_def": 84,
+    "mag_def": 121,
+    "spd": 110
+   },
+   "move_types": [
+    "幽",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3433,
+   "name": "海枝枝",
+   "types": [
+    "水",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 53,
+    "mag_atk": 135,
+    "phy_def": 92,
+    "mag_def": 113,
+    "spd": 120
+   },
+   "move_types": [
+    "幽",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3434,
+   "name": "小电企鹅",
+   "types": [
+    "冰",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 45,
+    "mag_atk": 101,
+    "phy_def": 59,
+    "mag_def": 87,
+    "spd": 100
+   },
+   "move_types": [
+    "冰",
+    "电"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3435,
+   "name": "电企鹅",
+   "types": [
+    "冰",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 94,
+    "phy_atk": 56,
+    "mag_atk": 126,
+    "phy_def": 73,
+    "mag_def": 109,
+    "spd": 125
+   },
+   "move_types": [
+    "冰",
+    "电"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3436,
+   "name": "柴渣虫",
+   "types": [
+    "草",
+    "火"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 96,
+    "mag_atk": 38,
+    "phy_def": 82,
+    "mag_def": 58,
+    "spd": 80
+   },
+   "move_types": [
+    "火",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3437,
+   "name": "燃薪虫",
+   "types": [
+    "草",
+    "火"
+   ],
+   "base_stats": {
+    "hp": 135,
+    "phy_atk": 120,
+    "mag_atk": 48,
+    "phy_def": 103,
+    "mag_def": 73,
+    "spd": 100
+   },
+   "move_types": [
+    "火",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3438,
+   "name": "梦游",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 40,
+    "mag_atk": 106,
+    "phy_def": 60,
+    "mag_def": 74,
+    "spd": 92
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3439,
+   "name": "梦悠悠",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 113,
+    "phy_atk": 50,
+    "mag_atk": 133,
+    "phy_def": 75,
+    "mag_def": 93,
+    "spd": 115
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3440,
+   "name": "梦游",
+   "types": [
+    "光",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 44,
+    "mag_atk": 110,
+    "phy_def": 56,
+    "mag_def": 74,
+    "spd": 88
+   },
+   "move_types": [
+    "光",
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3441,
+   "name": "梦悠悠",
+   "types": [
+    "光",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 117,
+    "phy_atk": 56,
+    "mag_atk": 138,
+    "phy_def": 70,
+    "mag_def": 92,
+    "spd": 110
+   },
+   "move_types": [
+    "光",
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3442,
+   "name": "小星光",
+   "types": [
+    "光",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 64,
+    "phy_atk": 76,
+    "mag_atk": 85,
+    "phy_def": 72,
+    "mag_def": 96,
+    "spd": 100
+   },
+   "move_types": [
+    "光",
+    "电"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3443,
+   "name": "星光狮",
+   "types": [
+    "光",
+    "电"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 95,
+    "mag_atk": 107,
+    "phy_def": 90,
+    "mag_def": 120,
+    "spd": 125
+   },
+   "move_types": [
+    "光",
+    "电"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3444,
+   "name": "噼啪鸟",
+   "types": [
+    "电",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 116,
+    "mag_atk": 109,
+    "phy_def": 85,
+    "mag_def": 85,
+    "spd": 145
+   },
+   "move_types": [
+    "电",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3448,
+   "name": "晶石蜗",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 94,
+    "phy_atk": 97,
+    "mag_atk": 101,
+    "phy_def": 137,
+    "mag_def": 91,
+    "spd": 65
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3449,
+   "name": "晶石蜗",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 101,
+    "mag_atk": 101,
+    "phy_def": 128,
+    "mag_def": 91,
+    "spd": 65
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3450,
+   "name": "晶石蜗",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 97,
+    "phy_atk": 97,
+    "mag_atk": 101,
+    "phy_def": 132,
+    "mag_def": 91,
+    "spd": 65
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3451,
+   "name": "晶石蜗",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 97,
+    "mag_atk": 107,
+    "phy_def": 124,
+    "mag_def": 91,
+    "spd": 65
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3452,
+   "name": "鸭吉吉",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 130,
+    "phy_atk": 95,
+    "mag_atk": 35,
+    "phy_def": 55,
+    "mag_def": 45,
+    "spd": 110
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3453,
+   "name": "鸭吉吉",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 137,
+    "phy_atk": 35,
+    "mag_atk": 94,
+    "phy_def": 46,
+    "mag_def": 57,
+    "spd": 100
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3454,
+   "name": "地鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 59,
+    "phy_atk": 71,
+    "mag_atk": 23,
+    "phy_def": 61,
+    "mag_def": 57,
+    "spd": 60
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3455,
+   "name": "遁鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 79,
+    "phy_atk": 94,
+    "mag_atk": 30,
+    "phy_def": 82,
+    "mag_def": 77,
+    "spd": 80
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3456,
+   "name": "遁地鼠",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 118,
+    "mag_atk": 38,
+    "phy_def": 102,
+    "mag_def": 96,
+    "spd": 100
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3457,
+   "name": "月牙雪熊",
+   "types": [
+    "冰",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 126,
+    "phy_atk": 97,
+    "mag_atk": 39,
+    "phy_def": 141,
+    "mag_def": 103,
+    "spd": 80
+   },
+   "move_types": [
+    "冰",
+    "幻"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3458,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 107,
+    "phy_atk": 120,
+    "mag_atk": 110,
+    "phy_def": 81,
+    "mag_def": 96,
+    "spd": 100
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3459,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 113,
+    "phy_atk": 112,
+    "mag_atk": 110,
+    "phy_def": 79,
+    "mag_def": 92,
+    "spd": 105
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3460,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 114,
+    "phy_atk": 117,
+    "mag_atk": 110,
+    "phy_def": 79,
+    "mag_def": 92,
+    "spd": 100
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3461,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 113,
+    "phy_atk": 109,
+    "mag_atk": 100,
+    "phy_def": 90,
+    "mag_def": 96,
+    "spd": 100
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3462,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 121,
+    "phy_atk": 100,
+    "mag_atk": 101,
+    "phy_def": 86,
+    "mag_def": 92,
+    "spd": 105
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3463,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 110,
+    "phy_atk": 116,
+    "mag_atk": 120,
+    "phy_def": 73,
+    "mag_def": 96,
+    "spd": 100
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3464,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 110,
+    "mag_atk": 110,
+    "phy_def": 84,
+    "mag_def": 99,
+    "spd": 100
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3465,
+   "name": "圣代甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 110,
+    "phy_atk": 107,
+    "mag_atk": 110,
+    "phy_def": 82,
+    "mag_def": 96,
+    "spd": 105
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3466,
+   "name": "星云旅者",
+   "types": [
+    "翼",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 67,
+    "mag_atk": 147,
+    "phy_def": 51,
+    "mag_def": 80,
+    "spd": 120
+   },
+   "move_types": [
+    "幻",
+    "翼"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3467,
+   "name": "小狮鹫",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 62,
+    "phy_atk": 66,
+    "mag_atk": 32,
+    "phy_def": 62,
+    "mag_def": 36,
+    "spd": 75
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3468,
+   "name": "神圣狮鹫",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 83,
+    "phy_atk": 88,
+    "mag_atk": 42,
+    "phy_def": 82,
+    "mag_def": 48,
+    "spd": 100
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3469,
+   "name": "皇家狮鹫",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 103,
+    "phy_atk": 110,
+    "mag_atk": 53,
+    "phy_def": 103,
+    "mag_def": 60,
+    "spd": 125
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3470,
+   "name": "化蝶",
+   "types": [
+    "虫",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 43,
+    "phy_atk": 42,
+    "mag_atk": 42,
+    "phy_def": 67,
+    "mag_def": 70,
+    "spd": 105
+   },
+   "move_types": [
+    "萌",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3471,
+   "name": "化蝶",
+   "types": [
+    "虫",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 49,
+    "phy_atk": 47,
+    "mag_atk": 41,
+    "phy_def": 67,
+    "mag_def": 67,
+    "spd": 95
+   },
+   "move_types": [
+    "萌",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3472,
+   "name": "化蝶",
+   "types": [
+    "虫",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 55,
+    "phy_atk": 46,
+    "mag_atk": 44,
+    "phy_def": 62,
+    "mag_def": 65,
+    "spd": 90
+   },
+   "move_types": [
+    "萌",
+    "虫"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3473,
+   "name": "布瓜蝌",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 91,
+    "phy_atk": 84,
+    "mag_atk": 35,
+    "phy_def": 81,
+    "mag_def": 55,
+    "spd": 96
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3474,
+   "name": "上岸蛙",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 114,
+    "phy_atk": 106,
+    "mag_atk": 44,
+    "phy_def": 101,
+    "mag_def": 69,
+    "spd": 120
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3475,
+   "name": "海盔虫",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 70,
+    "phy_atk": 25,
+    "mag_atk": 60,
+    "phy_def": 44,
+    "mag_def": 64,
+    "spd": 63
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3476,
+   "name": "刺盔虫",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 94,
+    "phy_atk": 33,
+    "mag_atk": 80,
+    "phy_def": 59,
+    "mag_def": 85,
+    "spd": 84
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3477,
+   "name": "千棘盔",
+   "types": [
+    "水",
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 117,
+    "phy_atk": 41,
+    "mag_atk": 100,
+    "phy_def": 74,
+    "mag_def": 107,
+    "spd": 105
+   },
+   "move_types": [
+    "毒",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3478,
+   "name": "香草甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 88,
+    "phy_atk": 92,
+    "mag_atk": 96,
+    "phy_def": 58,
+    "mag_def": 77,
+    "spd": 80
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3479,
+   "name": "香草甜甜",
+   "types": [
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 91,
+    "phy_atk": 94,
+    "mag_atk": 88,
+    "phy_def": 63,
+    "mag_def": 74,
+    "spd": 80
+   },
+   "move_types": [
+    "冰"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3480,
+   "name": "圣羽翼王",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 132,
+    "phy_atk": 109,
+    "mag_atk": 109,
+    "phy_def": 128,
+    "mag_def": 83,
+    "spd": 125
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3481,
+   "name": "暗影灵面",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 84,
+    "phy_atk": 30,
+    "mag_atk": 96,
+    "phy_def": 83,
+    "mag_def": 88,
+    "spd": 92
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3482,
+   "name": "幽冥眼",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 105,
+    "phy_atk": 38,
+    "mag_atk": 120,
+    "phy_def": 104,
+    "mag_def": 110,
+    "spd": 115
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3483,
+   "name": "蓬叶虫",
+   "types": [
+    "普通",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 74,
+    "phy_atk": 19,
+    "mag_atk": 87,
+    "phy_def": 84,
+    "mag_def": 73,
+    "spd": 96
+   },
+   "move_types": [
+    "普通",
+    "虫"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3484,
+   "name": "螺旋帕帕",
+   "types": [
+    "翼",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 88,
+    "phy_atk": 55,
+    "mag_atk": 8,
+    "phy_def": 79,
+    "mag_def": 67,
+    "spd": 80
+   },
+   "move_types": [
+    "机械",
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3485,
+   "name": "落陨星兔",
+   "types": [
+    "幽",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 61,
+    "mag_atk": 125,
+    "phy_def": 87,
+    "mag_def": 141,
+    "spd": 130
+   },
+   "move_types": [
+    "幻",
+    "幽"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3486,
+   "name": "晶石蜗",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 95,
+    "phy_atk": 97,
+    "mag_atk": 102,
+    "phy_def": 130,
+    "mag_def": 91,
+    "spd": 70
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3490,
+   "name": "吸泥鸥",
+   "types": [
+    "地面",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 99,
+    "phy_atk": 89,
+    "mag_atk": 33,
+    "phy_def": 87,
+    "mag_def": 71,
+    "spd": 76
+   },
+   "move_types": [
+    "地面",
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3491,
+   "name": "泥吼牙",
+   "types": [
+    "地面",
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 124,
+    "phy_atk": 112,
+    "mag_atk": 41,
+    "phy_def": 109,
+    "mag_def": 88,
+    "spd": 95
+   },
+   "move_types": [
+    "地面",
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3492,
+   "name": "兽花蕾",
+   "types": [
+    "草",
+    "光"
+   ],
+   "base_stats": {
+    "hp": 70,
+    "phy_atk": 79,
+    "mag_atk": 82,
+    "phy_def": 70,
+    "mag_def": 97,
+    "spd": 115
+   },
+   "move_types": [
+    "光",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3495,
+   "name": "鸭吉吉",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 108,
+    "phy_atk": 89,
+    "mag_atk": 41,
+    "phy_def": 74,
+    "mag_def": 48,
+    "spd": 115
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3496,
+   "name": "旋叶虫",
+   "types": [
+    "普通",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 57,
+    "phy_atk": 15,
+    "mag_atk": 67,
+    "phy_def": 61,
+    "mag_def": 52,
+    "spd": 72
+   },
+   "move_types": [
+    "普通",
+    "虫"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3497,
+   "name": "蓬叶虫",
+   "types": [
+    "普通",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 76,
+    "phy_atk": 20,
+    "mag_atk": 89,
+    "phy_def": 82,
+    "mag_def": 70,
+    "spd": 96
+   },
+   "move_types": [
+    "普通",
+    "虫"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3498,
+   "name": "风滚暮虫",
+   "types": [
+    "普通",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 95,
+    "phy_atk": 25,
+    "mag_atk": 111,
+    "phy_def": 102,
+    "mag_def": 87,
+    "spd": 120
+   },
+   "move_types": [
+    "普通",
+    "虫"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3499,
+   "name": "公平鸽",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 113,
+    "phy_atk": 93,
+    "mag_atk": 93,
+    "phy_def": 125,
+    "mag_def": 125,
+    "spd": 100
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3500,
+   "name": "石肤蜥",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 68,
+    "phy_atk": 54,
+    "mag_atk": 53,
+    "phy_def": 64,
+    "mag_def": 44,
+    "spd": 60
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3501,
+   "name": "石刺蜥",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 91,
+    "phy_atk": 72,
+    "mag_atk": 71,
+    "phy_def": 85,
+    "mag_def": 59,
+    "spd": 80
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3502,
+   "name": "石冠王蜥",
+   "types": [
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 113,
+    "phy_atk": 90,
+    "mag_atk": 89,
+    "phy_def": 106,
+    "mag_def": 74,
+    "spd": 100
+   },
+   "move_types": [
+    "地面"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3506,
+   "name": "花怨鳗",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 232,
+    "phy_atk": 73,
+    "mag_atk": 73,
+    "phy_def": 110,
+    "mag_def": 90,
+    "spd": 52
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3507,
+   "name": "鳗尾兽",
+   "types": [
+    "草",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 290,
+    "phy_atk": 91,
+    "mag_atk": 91,
+    "phy_def": 138,
+    "mag_def": 113,
+    "spd": 65
+   },
+   "move_types": [
+    "地面",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3508,
+   "name": "波波螺",
+   "types": [
+    "水",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 59,
+    "mag_atk": 59,
+    "phy_def": 87,
+    "mag_def": 66,
+    "spd": 42
+   },
+   "move_types": [
+    "地面",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3509,
+   "name": "消波螺",
+   "types": [
+    "水",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 78,
+    "mag_atk": 78,
+    "phy_def": 116,
+    "mag_def": 88,
+    "spd": 56
+   },
+   "move_types": [
+    "地面",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3510,
+   "name": "嗜波螺",
+   "types": [
+    "水",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 112,
+    "phy_atk": 98,
+    "mag_atk": 98,
+    "phy_def": 146,
+    "mag_def": 110,
+    "spd": 70
+   },
+   "move_types": [
+    "地面",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3511,
+   "name": "波波螺",
+   "types": [
+    "水",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 64,
+    "phy_atk": 57,
+    "mag_atk": 57,
+    "phy_def": 64,
+    "mag_def": 86,
+    "spd": 42
+   },
+   "move_types": [
+    "地面",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3512,
+   "name": "消波螺",
+   "types": [
+    "水",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 76,
+    "mag_atk": 76,
+    "phy_def": 85,
+    "mag_def": 115,
+    "spd": 56
+   },
+   "move_types": [
+    "地面",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3513,
+   "name": "嗜波螺",
+   "types": [
+    "水",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 107,
+    "phy_atk": 95,
+    "mag_atk": 95,
+    "phy_def": 106,
+    "mag_def": 144,
+    "spd": 70
+   },
+   "move_types": [
+    "地面",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3516,
+   "name": "板板壳",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 88,
+    "phy_atk": 24,
+    "mag_atk": 72,
+    "phy_def": 56,
+    "mag_def": 59,
+    "spd": 48
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3517,
+   "name": "咔咔壳",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 117,
+    "phy_atk": 31,
+    "mag_atk": 96,
+    "phy_def": 75,
+    "mag_def": 79,
+    "spd": 64
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3518,
+   "name": "水泡壳",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 146,
+    "phy_atk": 39,
+    "mag_atk": 121,
+    "phy_def": 93,
+    "mag_def": 98,
+    "spd": 80
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3521,
+   "name": "里拉鳐",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 118,
+    "phy_atk": 82,
+    "mag_atk": 89,
+    "phy_def": 103,
+    "mag_def": 147,
+    "spd": 105
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3526,
+   "name": "抹茶布丁",
+   "types": [
+    "草",
+    "水"
+   ],
+   "base_stats": {
+    "hp": 101,
+    "phy_atk": 32,
+    "mag_atk": 101,
+    "phy_def": 94,
+    "mag_def": 98,
+    "spd": 120
+   },
+   "move_types": [
+    "水",
+    "草"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3527,
+   "name": "椰浆布丁",
+   "types": [
+    "水",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 133,
+    "phy_atk": 34,
+    "mag_atk": 89,
+    "phy_def": 81,
+    "mag_def": 105,
+    "spd": 120
+   },
+   "move_types": [
+    "冰",
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3528,
+   "name": "熔岩布丁",
+   "types": [
+    "火",
+    "水"
+   ],
+   "base_stats": {
+    "hp": 128,
+    "phy_atk": 87,
+    "mag_atk": 33,
+    "phy_def": 112,
+    "mag_def": 84,
+    "spd": 120
+   },
+   "move_types": [
+    "水",
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3529,
+   "name": "号儿鱼",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 109,
+    "phy_atk": 27,
+    "mag_atk": 76,
+    "phy_def": 76,
+    "mag_def": 88,
+    "spd": 84
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3530,
+   "name": "圆号鱼",
+   "types": [
+    "水"
+   ],
+   "base_stats": {
+    "hp": 136,
+    "phy_atk": 34,
+    "mag_atk": 95,
+    "phy_def": 95,
+    "mag_def": 110,
+    "spd": 105
+   },
+   "move_types": [
+    "水"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3533,
+   "name": "雪绒鸟",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 54,
+    "phy_atk": 77,
+    "mag_atk": 33,
+    "phy_def": 65,
+    "mag_def": 44,
+    "spd": 69
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3534,
+   "name": "斑斑",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 71,
+    "phy_atk": 90,
+    "mag_atk": 90,
+    "phy_def": 71,
+    "mag_def": 80,
+    "spd": 92
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3535,
+   "name": "斑枭",
+   "types": [
+    "翼"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 112,
+    "mag_atk": 112,
+    "phy_def": 89,
+    "mag_def": 100,
+    "spd": 115
+   },
+   "move_types": [
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3536,
+   "name": "乌达",
+   "types": [
+    "火",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 95,
+    "mag_atk": 49,
+    "phy_def": 70,
+    "mag_def": 42,
+    "spd": 33
+   },
+   "move_types": [
+    "恶",
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3537,
+   "name": "迷你乌",
+   "types": [
+    "火",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 107,
+    "phy_atk": 126,
+    "mag_atk": 66,
+    "phy_def": 93,
+    "mag_def": 56,
+    "spd": 44
+   },
+   "move_types": [
+    "恶",
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3538,
+   "name": "乌拉塔",
+   "types": [
+    "火",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 134,
+    "phy_atk": 158,
+    "mag_atk": 82,
+    "phy_def": 116,
+    "mag_def": 70,
+    "spd": 55
+   },
+   "move_types": [
+    "恶",
+    "火"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3539,
+   "name": "乌达",
+   "types": [
+    "冰",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 96,
+    "phy_atk": 95,
+    "mag_atk": 55,
+    "phy_def": 64,
+    "mag_def": 34,
+    "spd": 30
+   },
+   "move_types": [
+    "冰",
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3540,
+   "name": "迷你乌",
+   "types": [
+    "冰",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 128,
+    "phy_atk": 126,
+    "mag_atk": 73,
+    "phy_def": 85,
+    "mag_def": 46,
+    "spd": 40
+   },
+   "move_types": [
+    "冰",
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3541,
+   "name": "乌拉塔",
+   "types": [
+    "冰",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 160,
+    "phy_atk": 158,
+    "mag_atk": 91,
+    "phy_def": 106,
+    "mag_def": 57,
+    "spd": 50
+   },
+   "move_types": [
+    "冰",
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3543,
+   "name": "多灵",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 15,
+    "phy_atk": 15,
+    "mag_atk": 15,
+    "phy_def": 15,
+    "mag_def": 15,
+    "spd": 30
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3544,
+   "name": "多灵主",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 20,
+    "phy_atk": 20,
+    "mag_atk": 20,
+    "phy_def": 20,
+    "mag_def": 20,
+    "spd": 40
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3545,
+   "name": "圣剑侍从",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 139,
+    "phy_atk": 116,
+    "mag_atk": 111,
+    "phy_def": 139,
+    "mag_def": 139,
+    "spd": 52
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3546,
+   "name": "圣剑-X",
+   "types": [
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 174,
+    "phy_atk": 144,
+    "mag_atk": 139,
+    "phy_def": 173,
+    "mag_def": 173,
+    "spd": 65
+   },
+   "move_types": [
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3547,
+   "name": "帕帕斯卡",
+   "types": [
+    "翼",
+    "机械"
+   ],
+   "base_stats": {
+    "hp": 110,
+    "phy_atk": 68,
+    "mag_atk": 10,
+    "phy_def": 99,
+    "mag_def": 84,
+    "spd": 100
+   },
+   "move_types": [
+    "机械",
+    "翼"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3550,
+   "name": "棋棋",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 72,
+    "phy_atk": 100,
+    "mag_atk": 36,
+    "phy_def": 70,
+    "mag_def": 56,
+    "spd": 100
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3551,
+   "name": "棋骑士",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 90,
+    "phy_atk": 126,
+    "mag_atk": 45,
+    "phy_def": 88,
+    "mag_def": 69,
+    "spd": 125
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3552,
+   "name": "棋绮后",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 84,
+    "mag_atk": 84,
+    "phy_def": 82,
+    "mag_def": 75,
+    "spd": 90
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3553,
+   "name": "棋齐垒",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 94,
+    "mag_atk": 38,
+    "phy_def": 116,
+    "mag_def": 77,
+    "spd": 75
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3554,
+   "name": "棋祈督",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 126,
+    "phy_atk": 87,
+    "mag_atk": 87,
+    "phy_def": 90,
+    "mag_def": 72,
+    "spd": 85
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3555,
+   "name": "棋棋",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 66,
+    "phy_atk": 97,
+    "mag_atk": 35,
+    "phy_def": 67,
+    "mag_def": 53,
+    "spd": 100
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3556,
+   "name": "棋骑士",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 83,
+    "phy_atk": 121,
+    "mag_atk": 43,
+    "phy_def": 84,
+    "mag_def": 66,
+    "spd": 125
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3557,
+   "name": "棋绮后",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 84,
+    "mag_atk": 84,
+    "phy_def": 82,
+    "mag_def": 75,
+    "spd": 90
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3558,
+   "name": "棋齐垒",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 94,
+    "mag_atk": 38,
+    "phy_def": 116,
+    "mag_def": 77,
+    "spd": 75
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3559,
+   "name": "棋祈督",
+   "types": [
+    "地面",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 126,
+    "phy_atk": 87,
+    "mag_atk": 87,
+    "phy_def": 90,
+    "mag_def": 72,
+    "spd": 85
+   },
+   "move_types": [
+    "地面",
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3565,
+   "name": "栗鼠",
+   "types": [
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 96,
+    "phy_atk": 47,
+    "mag_atk": 49,
+    "phy_def": 62,
+    "mag_def": 89,
+    "spd": 80
+   },
+   "move_types": [
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3566,
+   "name": "壳栗丝鼠",
+   "types": [
+    "毒"
+   ],
+   "base_stats": {
+    "hp": 120,
+    "phy_atk": 59,
+    "mag_atk": 61,
+    "phy_def": 77,
+    "mag_def": 111,
+    "spd": 100
+   },
+   "move_types": [
+    "毒"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3567,
+   "name": "落陨星兔",
+   "types": [
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 61,
+    "mag_atk": 125,
+    "phy_def": 87,
+    "mag_def": 141,
+    "spd": 130
+   },
+   "move_types": [
+    "幻"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3568,
+   "name": "小黑猫",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 121,
+    "phy_atk": 72,
+    "mag_atk": 130,
+    "phy_def": 54,
+    "mag_def": 95,
+    "spd": 56
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3569,
+   "name": "黑猫巫师",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 152,
+    "phy_atk": 91,
+    "mag_atk": 163,
+    "phy_def": 67,
+    "mag_def": 119,
+    "spd": 70
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3571,
+   "name": "黑羽夫人",
+   "types": [
+    "翼",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 132,
+    "phy_atk": 93,
+    "mag_atk": 87,
+    "phy_def": 130,
+    "mag_def": 90,
+    "spd": 120
+   },
+   "move_types": [
+    "恶",
+    "翼"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3577,
+   "name": "墨鱿士",
+   "types": [
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 103,
+    "phy_atk": 84,
+    "mag_atk": 34,
+    "phy_def": 105,
+    "mag_def": 79,
+    "spd": 56
+   },
+   "move_types": [
+    "幽"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3578,
+   "name": "混乱鱿彩",
+   "types": [
+    "幽",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 129,
+    "phy_atk": 105,
+    "mag_atk": 42,
+    "phy_def": 131,
+    "mag_def": 99,
+    "spd": 70
+   },
+   "move_types": [
+    "幽",
+    "恶"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3579,
+   "name": "秩序鱿墨",
+   "types": [
+    "萌",
+    "幽"
+   ],
+   "base_stats": {
+    "hp": 78,
+    "phy_atk": 120,
+    "mag_atk": 39,
+    "phy_def": 124,
+    "mag_def": 113,
+    "spd": 130
+   },
+   "move_types": [
+    "幽",
+    "萌"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3582,
+   "name": "刺轮砣",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 80,
+    "mag_atk": 78,
+    "phy_def": 80,
+    "mag_def": 65,
+    "spd": 84
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3583,
+   "name": "月亮砣",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 125,
+    "phy_atk": 100,
+    "mag_atk": 98,
+    "phy_def": 100,
+    "mag_def": 81,
+    "spd": 105
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3584,
+   "name": "刺轮砣",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 78,
+    "mag_atk": 80,
+    "phy_def": 65,
+    "mag_def": 80,
+    "spd": 84
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3585,
+   "name": "月亮砣",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 125,
+    "phy_atk": 98,
+    "mag_atk": 100,
+    "phy_def": 81,
+    "mag_def": 100,
+    "spd": 105
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3594,
+   "name": "松仔",
+   "types": [
+    "草",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 63,
+    "phy_atk": 83,
+    "mag_atk": 34,
+    "phy_def": 77,
+    "mag_def": 60,
+    "spd": 63
+   },
+   "move_types": [
+    "武",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3595,
+   "name": "松叶羊",
+   "types": [
+    "草",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 84,
+    "phy_atk": 111,
+    "mag_atk": 46,
+    "phy_def": 102,
+    "mag_def": 80,
+    "spd": 84
+   },
+   "move_types": [
+    "武",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3596,
+   "name": "针叶巡林",
+   "types": [
+    "草",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 105,
+    "phy_atk": 139,
+    "mag_atk": 57,
+    "phy_def": 128,
+    "mag_def": 100,
+    "spd": 105
+   },
+   "move_types": [
+    "武",
+    "草"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3597,
+   "name": "水滴蛇",
+   "types": [
+    "水",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 63,
+    "phy_atk": 66,
+    "mag_atk": 62,
+    "phy_def": 62,
+    "mag_def": 62,
+    "spd": 63
+   },
+   "move_types": [
+    "武",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3598,
+   "name": "水蛇锁",
+   "types": [
+    "水",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 84,
+    "phy_atk": 88,
+    "mag_atk": 83,
+    "phy_def": 83,
+    "mag_def": 83,
+    "spd": 84
+   },
+   "move_types": [
+    "武",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3599,
+   "name": "游蛇魔使",
+   "types": [
+    "水",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 105,
+    "phy_atk": 110,
+    "mag_atk": 104,
+    "phy_def": 103,
+    "mag_def": 103,
+    "spd": 105
+   },
+   "move_types": [
+    "武",
+    "水"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3600,
+   "name": "小勇狮",
+   "types": [
+    "火",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 82,
+    "phy_atk": 31,
+    "mag_atk": 66,
+    "phy_def": 53,
+    "mag_def": 78,
+    "spd": 48
+   },
+   "move_types": [
+    "武",
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3601,
+   "name": "炽焰狮",
+   "types": [
+    "火",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 110,
+    "phy_atk": 41,
+    "mag_atk": 89,
+    "phy_def": 70,
+    "mag_def": 104,
+    "spd": 64
+   },
+   "move_types": [
+    "武",
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3602,
+   "name": "炽心勇狮",
+   "types": [
+    "火",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 137,
+    "phy_atk": 51,
+    "mag_atk": 111,
+    "phy_def": 88,
+    "mag_def": 130,
+    "spd": 80
+   },
+   "move_types": [
+    "武",
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3603,
+   "name": "毛头小蛛",
+   "types": [
+    "地面",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 85,
+    "phy_atk": 80,
+    "mag_atk": 27,
+    "phy_def": 93,
+    "mag_def": 79,
+    "spd": 88
+   },
+   "move_types": [
+    "地面",
+    "虫"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3604,
+   "name": "捕尘长绒",
+   "types": [
+    "地面",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 106,
+    "phy_atk": 100,
+    "mag_atk": 34,
+    "phy_def": 116,
+    "mag_def": 99,
+    "spd": 110
+   },
+   "move_types": [
+    "地面",
+    "虫"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3605,
+   "name": "食尘短绒",
+   "types": [
+    "地面",
+    "虫"
+   ],
+   "base_stats": {
+    "hp": 109,
+    "phy_atk": 105,
+    "mag_atk": 37,
+    "phy_def": 113,
+    "mag_def": 97,
+    "spd": 115
+   },
+   "move_types": [
+    "地面",
+    "虫"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3606,
+   "name": "画精灵",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 61,
+    "phy_atk": 32,
+    "mag_atk": 78,
+    "phy_def": 56,
+    "mag_def": 72,
+    "spd": 72
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3607,
+   "name": "画像守护",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 81,
+    "phy_atk": 42,
+    "mag_atk": 104,
+    "phy_def": 75,
+    "mag_def": 96,
+    "spd": 96
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3608,
+   "name": "画间法师手",
+   "types": [
+    "普通",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 101,
+    "phy_atk": 53,
+    "mag_atk": 131,
+    "phy_def": 94,
+    "mag_def": 120,
+    "spd": 120
+   },
+   "move_types": [
+    "幻",
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3609,
+   "name": "画间沉铁兽",
+   "types": [
+    "普通",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 160,
+    "mag_atk": 67,
+    "phy_def": 100,
+    "mag_def": 76,
+    "spd": 105
+   },
+   "move_types": [
+    "普通",
+    "武"
+   ],
+   "preferred_attack_style": "Physical"
+  },
+  {
+   "id": 3610,
+   "name": "书魔虫",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 75,
+    "mag_atk": 75,
+    "phy_def": 48,
+    "mag_def": 73,
+    "spd": 57
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3611,
+   "name": "书卷守护",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 89,
+    "phy_atk": 100,
+    "mag_atk": 100,
+    "phy_def": 64,
+    "mag_def": 98,
+    "spd": 76
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3612,
+   "name": "古卷执政官",
+   "types": [
+    "普通",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 111,
+    "phy_atk": 125,
+    "mag_atk": 125,
+    "phy_def": 80,
+    "mag_def": 122,
+    "spd": 95
+   },
+   "move_types": [
+    "幻",
+    "普通"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3613,
+   "name": "古卷匣魔像",
+   "types": [
+    "普通",
+    "武"
+   ],
+   "base_stats": {
+    "hp": 114,
+    "phy_atk": 109,
+    "mag_atk": 109,
+    "phy_def": 134,
+    "mag_def": 89,
+    "spd": 95
+   },
+   "move_types": [
+    "普通",
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3614,
+   "name": "嗜光嗡嗡",
+   "types": [
+    "光",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 75,
+    "phy_atk": 83,
+    "mag_atk": 83,
+    "phy_def": 50,
+    "mag_def": 90,
+    "spd": 92
+   },
+   "move_types": [
+    "光",
+    "恶"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3615,
+   "name": "窃光蚊",
+   "types": [
+    "光",
+    "恶"
+   ],
+   "base_stats": {
+    "hp": 93,
+    "phy_atk": 104,
+    "mag_atk": 104,
+    "phy_def": 63,
+    "mag_def": 113,
+    "spd": 115
+   },
+   "move_types": [
+    "光",
+    "恶"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3616,
+   "name": "不咕钟",
+   "types": [
+    "机械",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 76,
+    "phy_atk": 84,
+    "mag_atk": 92,
+    "phy_def": 96,
+    "mag_def": 96,
+    "spd": 68
+   },
+   "move_types": [
+    "幻",
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3617,
+   "name": "溯源钟",
+   "types": [
+    "机械",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 95,
+    "phy_atk": 105,
+    "mag_atk": 115,
+    "phy_def": 120,
+    "mag_def": 120,
+    "spd": 85
+   },
+   "move_types": [
+    "幻",
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3618,
+   "name": "小箱怪",
+   "types": [
+    "机械",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 111,
+    "phy_atk": 103,
+    "mag_atk": 103,
+    "phy_def": 122,
+    "mag_def": 122,
+    "spd": 64
+   },
+   "move_types": [
+    "幻",
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3619,
+   "name": "迷迷箱怪",
+   "types": [
+    "机械",
+    "幻"
+   ],
+   "base_stats": {
+    "hp": 138,
+    "phy_atk": 129,
+    "mag_atk": 129,
+    "phy_def": 153,
+    "mag_def": 153,
+    "spd": 80
+   },
+   "move_types": [
+    "幻",
+    "机械"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3620,
+   "name": "学院呱呱",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 132,
+    "phy_atk": 99,
+    "mag_atk": 99,
+    "phy_def": 92,
+    "mag_def": 92,
+    "spd": 100
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3621,
+   "name": "古钟蛇",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 80,
+    "phy_atk": 63,
+    "mag_atk": 70,
+    "phy_def": 64,
+    "mag_def": 91,
+    "spd": 80
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3622,
+   "name": "寒音蛇",
+   "types": [
+    "毒",
+    "萌"
+   ],
+   "base_stats": {
+    "hp": 100,
+    "phy_atk": 79,
+    "mag_atk": 87,
+    "phy_def": 80,
+    "mag_def": 114,
+    "spd": 100
+   },
+   "move_types": [
+    "毒",
+    "萌"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3704,
+   "name": "优优",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 81,
+    "phy_atk": 35,
+    "mag_atk": 89,
+    "phy_def": 84,
+    "mag_def": 104,
+    "spd": 92
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3705,
+   "name": "绒光优优",
+   "types": [
+    "光",
+    "地面"
+   ],
+   "base_stats": {
+    "hp": 101,
+    "phy_atk": 43,
+    "mag_atk": 111,
+    "phy_def": 105,
+    "mag_def": 130,
+    "spd": 115
+   },
+   "move_types": [
+    "光",
+    "地面"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3738,
+   "name": "小怂猫",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 87,
+    "phy_atk": 106,
+    "mag_atk": 103,
+    "phy_def": 89,
+    "mag_def": 62,
+    "spd": 72
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3739,
+   "name": "怒目怂猫",
+   "types": [
+    "武"
+   ],
+   "base_stats": {
+    "hp": 109,
+    "phy_atk": 132,
+    "mag_atk": 128,
+    "phy_def": 111,
+    "mag_def": 77,
+    "spd": 90
+   },
+   "move_types": [
+    "武"
+   ],
+   "preferred_attack_style": "Both"
+  },
+  {
+   "id": 3742,
+   "name": "鸭吉吉",
+   "types": [
+    "普通"
+   ],
+   "base_stats": {
+    "hp": 107,
+    "phy_atk": 53,
+    "mag_atk": 125,
+    "phy_def": 80,
+    "mag_def": 113,
+    "spd": 100
+   },
+   "move_types": [
+    "普通"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3744,
+   "name": "火红尾",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 67,
+    "phy_atk": 56,
+    "mag_atk": 129,
+    "phy_def": 70,
+    "mag_def": 89,
+    "spd": 100
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3745,
+   "name": "雅丹鬃",
+   "types": [
+    "火"
+   ],
+   "base_stats": {
+    "hp": 83,
+    "phy_atk": 70,
+    "mag_atk": 162,
+    "phy_def": 88,
+    "mag_def": 111,
+    "spd": 125
+   },
+   "move_types": [
+    "火"
+   ],
+   "preferred_attack_style": "Magic"
+  },
+  {
+   "id": 3746,
+   "name": "雪影娃娃·春日",
+   "types": [
+    "草",
+    "冰"
+   ],
+   "base_stats": {
+    "hp": 147,
+    "phy_atk": 116,
+    "mag_atk": 111,
+    "phy_def": 69,
+    "mag_def": 135,
+    "spd": 90
+   },
+   "move_types": [
+    "冰",
+    "草"
+   ],
+   "preferred_attack_style": "Both"
+  }
+ ]
+}
