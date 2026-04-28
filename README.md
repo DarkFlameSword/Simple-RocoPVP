@@ -87,7 +87,7 @@ Windows: `%APPDATA%\com.simplerocopvp.helper\user-data\`
 请根据游戏内实际存在的双属性精灵填写;
 ID 应稳定不变,作为 `battle_events.jsonl` 的外键。
 
-## v1.0.0 范围(已实现)
+## v0.1.0 范围(已实现)
 
 - 加性层级模型 + 整数 EffectLevel
 - 数据 JSONL 持久化
